@@ -1,0 +1,44 @@
+2024-06-22 01:12:57,361 - INFO - Order received: 1 - Pizza, Prep Time: 5s
+2024-06-22 01:13:02,368 - INFO - Order prepared: 1 - Pizza
+2024-06-22 01:13:02,374 - INFO - Courier: 1 dispatched for any Order
+2024-06-22 01:13:02,375 - INFO - Courier: 1 arrived for any Order
+2024-06-22 01:13:02,375 - INFO - Order picked up: 1 by Courier: 1
+2024-06-22 01:13:02,375 - INFO - Food wait time: 8.61215591430664 ms
+2024-06-22 01:13:02,375 - INFO - Courier wait time: 0.1609325408935547 ms
+2024-06-22 01:13:02,380 - INFO - Courier: 1 dispatched for any Order
+2024-06-22 01:13:02,381 - INFO - Courier: 1 dispatched for any Order
+2024-06-22 01:13:02,381 - INFO - Order received: 1 - Pizza, Prep Time: 5s
+2024-06-22 01:13:07,386 - INFO - Order prepared: 1 - Pizza
+2024-06-22 01:13:07,387 - INFO - Courier: 1 dispatched for Order: 1
+2024-06-22 01:13:07,387 - INFO - Order received: 1 - Pizza, Prep Time: 1s
+2024-06-22 01:13:08,388 - INFO - Order prepared: 1 - Pizza
+2024-06-22 01:13:08,389 - INFO - Order picked up: 1 by Courier: 1
+2024-06-22 01:13:08,389 - INFO - Food wait time: 0.6279945373535156 ms
+2024-06-22 01:13:08,389 - INFO - Courier wait time: 0.01621246337890625 ms
+2024-06-22 01:13:09,393 - INFO - Order prepared: 1 - Pizza
+2024-06-22 01:13:09,394 - INFO - Order received: 1 - Pizza, Prep Time: 5s
+2024-06-22 01:13:09,395 - INFO - Order received: 1 - Pizza, Prep Time: 5s
+2024-06-22 01:13:14,400 - INFO - Order prepared: 1 - Pizza
+2024-06-22 01:13:14,401 - INFO - Courier: 1 dispatched for Order: 1
+2024-06-22 01:13:14,401 - INFO - Courier (Matched): 1 arrived for Order: 1
+2024-06-22 01:13:14,401 - INFO - Order picked up: 1 by Courier: 1
+2024-06-22 01:13:14,401 - INFO - Food wait time: 0.9870529174804688 ms
+2024-06-22 01:13:14,401 - INFO - Courier wait time: 0.15687942504882812 ms
+2024-06-22 01:13:14,402 - INFO - Courier: 1 dispatched for Order: 1
+2024-06-22 01:13:14,418 - INFO - Order received: 1 - Pizza, Prep Time: 5s
+2024-06-22 01:13:14,418 - INFO - Courier: 0 dispatched for any Order
+2024-06-22 01:13:14,923 - INFO - Order received: 2 - Burger, Prep Time: 3s
+2024-06-22 01:13:14,924 - INFO - Courier: 1 dispatched for any Order
+2024-06-22 01:13:17,929 - INFO - Order prepared: 2 - Burger
+2024-06-22 01:13:19,423 - INFO - Order prepared: 1 - Pizza
+2024-06-22 01:13:27,547 - INFO - Courier: 0 arrived for any Order
+2024-06-22 01:13:27,548 - INFO - Order picked up: 1 by Courier: 0
+2024-06-22 01:13:27,548 - INFO - Food wait time: 8125.148773193359 ms
+2024-06-22 01:13:27,549 - INFO - Courier wait time: 1.5017986297607422 ms
+2024-06-22 01:13:28,676 - INFO - Courier: 1 arrived for any Order
+2024-06-22 01:13:28,677 - INFO - Order picked up: 2 by Courier: 1
+2024-06-22 01:13:28,677 - INFO - Food wait time: 10747.45488166809 ms
+2024-06-22 01:13:28,677 - INFO - Courier wait time: 0.7081031799316406 ms
+2024-06-22 01:13:28,682 - INFO - --- Final Statistics ---
+2024-06-22 01:13:28,682 - INFO - Average Food Wait Time: 9436.301827430725 ms
+2024-06-22 01:13:28,683 - INFO - Average Courier Wait Time: 1.1049509048461914 ms

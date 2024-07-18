@@ -1,0 +1,927 @@
+2024-06-20 21:54:50,162 - INFO - Order received: a8cfcb76-7f24-4420-a5ba-d46dd77bdffd - Banana Split, Prep Time: 4s
+2024-06-20 21:54:50,162 - INFO - Courier: 0 dispatched for any Order
+2024-06-20 21:54:50,668 - INFO - Courier: 1 dispatched for any Order
+2024-06-20 21:54:50,668 - INFO - Order received: 58e9b5fe-3fde-4a27-8e98-682e58a4a65d - McFlury, Prep Time: 14s
+2024-06-20 21:54:51,174 - INFO - Order received: 2ec069e3-576f-48eb-869f-74a540ef840c - Acai Bowl, Prep Time: 12s
+2024-06-20 21:54:51,174 - INFO - Courier: 2 dispatched for any Order
+2024-06-20 21:54:51,680 - INFO - Order received: 690b85f7-8c7d-4337-bd02-04e04454c826 - Yogurt, Prep Time: 6s
+2024-06-20 21:54:51,681 - INFO - Courier: 3 dispatched for any Order
+2024-06-20 21:54:52,186 - INFO - Courier: 4 dispatched for any Order
+2024-06-20 21:54:52,187 - INFO - Order received: 972aa5b8-5d83-4d5e-8cf3-8a1a1437b18a - Chocolate Gelato, Prep Time: 9s
+2024-06-20 21:54:52,693 - INFO - Courier: 5 dispatched for any Order
+2024-06-20 21:54:52,694 - INFO - Order received: c18e1242-0856-4203-a98c-7066ead3bd6b - Cobb Salad, Prep Time: 8s
+2024-06-20 21:54:53,199 - INFO - Courier: 6 dispatched for any Order
+2024-06-20 21:54:53,200 - INFO - Order received: 66a2611c-9a93-4ccd-bb85-98f423247bf9 - Cottage Cheese, Prep Time: 11s
+2024-06-20 21:54:53,705 - INFO - Order received: 4cc9d503-4e0e-42a3-b200-87c785468df9 - Coke, Prep Time: 13s
+2024-06-20 21:54:53,705 - INFO - Courier: 7 dispatched for any Order
+2024-06-20 21:54:54,167 - INFO - Order prepared: a8cfcb76-7f24-4420-a5ba-d46dd77bdffd - Banana Split
+2024-06-20 21:54:54,209 - INFO - Order received: 0a6537d7-9568-400e-9857-7aceb4e7347c - Snow Cone, Prep Time: 4s
+2024-06-20 21:54:54,210 - INFO - Courier: 8 dispatched for any Order
+2024-06-20 21:54:54,711 - INFO - Order received: 74e0893f-8544-4298-b507-9cf5ab847d83 - Pad See Ew, Prep Time: 3s
+2024-06-20 21:54:54,711 - INFO - Courier: 9 dispatched for any Order
+2024-06-20 21:54:55,215 - INFO - Courier: 10 dispatched for any Order
+2024-06-20 21:54:55,215 - INFO - Order received: 7a5ea4ed-e378-4354-8ab3-a09cf563f621 - Chunky Monkey, Prep Time: 13s
+2024-06-20 21:54:55,727 - INFO - Courier: 11 dispatched for any Order
+2024-06-20 21:54:55,731 - INFO - Order received: 60fbe431-7f7f-46c5-8ecf-6a26ae898685 - Beef Stew, Prep Time: 8s
+2024-06-20 21:54:56,234 - INFO - Order received: 2e7f4153-92cb-43e2-96f4-d77e2f25422b - Cheese, Prep Time: 12s
+2024-06-20 21:54:56,235 - INFO - Courier: 12 dispatched for any Order
+2024-06-20 21:54:56,740 - INFO - Courier: 13 dispatched for any Order
+2024-06-20 21:54:56,741 - INFO - Order received: d4ead98f-a158-429c-9c0d-28ab0fa830a6 - Spinach Omelet, Prep Time: 3s
+2024-06-20 21:54:57,246 - INFO - Courier: 14 dispatched for any Order
+2024-06-20 21:54:57,246 - INFO - Order received: e868e485-c759-411b-b439-ca7086326bf6 - Beef Hash, Prep Time: 8s
+2024-06-20 21:54:57,683 - INFO - Order prepared: 690b85f7-8c7d-4337-bd02-04e04454c826 - Yogurt
+2024-06-20 21:54:57,717 - INFO - Order prepared: 74e0893f-8544-4298-b507-9cf5ab847d83 - Pad See Ew
+2024-06-20 21:54:57,752 - INFO - Courier: 15 dispatched for any Order
+2024-06-20 21:54:57,752 - INFO - Order received: 2bfc7ca9-d8ea-4625-9a03-6aa4b5fb635e - Pork Chop, Prep Time: 12s
+2024-06-20 21:54:58,215 - INFO - Order prepared: 0a6537d7-9568-400e-9857-7aceb4e7347c - Snow Cone
+2024-06-20 21:54:58,258 - INFO - Courier: 16 dispatched for any Order
+2024-06-20 21:54:58,258 - INFO - Order received: 1a4d0e6d-e50e-4ec0-ad5d-0f33e6a724e6 - Kale Salad, Prep Time: 5s
+2024-06-20 21:54:58,402 - INFO - Courier: 9 arrived for any Order
+2024-06-20 21:54:58,402 - INFO - Order picked up: a8cfcb76-7f24-4420-a5ba-d46dd77bdffd by Courier: 9
+2024-06-20 21:54:58,403 - INFO - Food wait time: 4234.95888710022 ms
+2024-06-20 21:54:58,403 - INFO - Courier wait time: 0.4482269287109375 ms
+2024-06-20 21:54:58,764 - INFO - Courier: 17 dispatched for any Order
+2024-06-20 21:54:58,764 - INFO - Order received: a9f8f42f-7a58-4629-8b66-1acbf362f3b8 - Fresh Fruit, Prep Time: 15s
+2024-06-20 21:54:58,938 - INFO - Courier: 3 arrived for any Order
+2024-06-20 21:54:59,265 - INFO - Courier: 18 dispatched for any Order
+2024-06-20 21:54:59,266 - INFO - Order received: 6d2c9eb3-6ff8-408a-a60d-e60eaa467dae - Cranberry Salad, Prep Time: 14s
+2024-06-20 21:54:59,746 - INFO - Order prepared: d4ead98f-a158-429c-9c0d-28ab0fa830a6 - Spinach Omelet
+2024-06-20 21:54:59,768 - INFO - Courier: 19 dispatched for any Order
+2024-06-20 21:54:59,771 - INFO - Order received: 916ddba3-9c25-4065-8a90-ecf5c40c8394 - Fudge Ice Cream Cake, Prep Time: 3s
+2024-06-20 21:55:00,274 - INFO - Courier: 20 dispatched for any Order
+2024-06-20 21:55:00,276 - INFO - Order received: 23f5cb3a-fa51-49ad-9e29-83e98d6e7d6f - Mint Chocolate Ice Cream, Prep Time: 3s
+2024-06-20 21:55:00,578 - INFO - Courier: 5 arrived for any Order
+2024-06-20 21:55:00,695 - INFO - Order prepared: c18e1242-0856-4203-a98c-7066ead3bd6b - Cobb Salad
+2024-06-20 21:55:00,779 - INFO - Courier: 21 dispatched for any Order
+2024-06-20 21:55:00,781 - INFO - Order received: c700ab30-d7bd-4e45-aafb-4329876c716c - Vegan Pizza, Prep Time: 10s
+2024-06-20 21:55:01,193 - INFO - Order prepared: 972aa5b8-5d83-4d5e-8cf3-8a1a1437b18a - Chocolate Gelato
+2024-06-20 21:55:01,282 - INFO - Courier: 22 dispatched for any Order
+2024-06-20 21:55:01,287 - INFO - Order received: cf0932a9-533c-4603-bb1e-512c6e697b92 - Orange Chicken, Prep Time: 15s
+2024-06-20 21:55:01,784 - INFO - Courier: 23 dispatched for any Order
+2024-06-20 21:55:01,790 - INFO - Order received: ed05dafe-d928-4f1a-856d-1dab3868acbd - MeatLoaf, Prep Time: 7s
+2024-06-20 21:55:01,946 - INFO - Courier: 15 arrived for any Order
+2024-06-20 21:55:01,946 - INFO - Order picked up: 690b85f7-8c7d-4337-bd02-04e04454c826 by Courier: 15
+2024-06-20 21:55:01,946 - INFO - Food wait time: 4263.200044631958 ms
+2024-06-20 21:55:01,946 - INFO - Courier wait time: 0.4818439483642578 ms
+2024-06-20 21:55:01,955 - INFO - Courier: 6 arrived for any Order
+2024-06-20 21:55:01,955 - INFO - Order picked up: 972aa5b8-5d83-4d5e-8cf3-8a1a1437b18a by Courier: 6
+2024-06-20 21:55:01,956 - INFO - Food wait time: 762.5961303710938 ms
+2024-06-20 21:55:01,956 - INFO - Courier wait time: 0.3387928009033203 ms
+2024-06-20 21:55:02,290 - INFO - Courier: 24 dispatched for any Order
+2024-06-20 21:55:02,292 - INFO - Order received: 53f012e3-da55-4314-b2e6-28e63f0418ad - Milk, Prep Time: 5s
+2024-06-20 21:55:02,639 - INFO - Courier: 0 arrived for any Order
+2024-06-20 21:55:02,640 - INFO - Order picked up: c18e1242-0856-4203-a98c-7066ead3bd6b by Courier: 0
+2024-06-20 21:55:02,640 - INFO - Food wait time: 1944.1766738891602 ms
+2024-06-20 21:55:02,640 - INFO - Courier wait time: 0.3132820129394531 ms
+2024-06-20 21:55:02,774 - INFO - Order prepared: 916ddba3-9c25-4065-8a90-ecf5c40c8394 - Fudge Ice Cream Cake
+2024-06-20 21:55:02,795 - INFO - Courier: 25 dispatched for any Order
+2024-06-20 21:55:02,797 - INFO - Order received: 5dd79771-4536-4eaa-b64c-63ac606f1357 - Pastrami Sandwich, Prep Time: 8s
+2024-06-20 21:55:03,179 - INFO - Order prepared: 2ec069e3-576f-48eb-869f-74a540ef840c - Acai Bowl
+2024-06-20 21:55:03,264 - INFO - Order prepared: 1a4d0e6d-e50e-4ec0-ad5d-0f33e6a724e6 - Kale Salad
+2024-06-20 21:55:03,279 - INFO - Order prepared: 23f5cb3a-fa51-49ad-9e29-83e98d6e7d6f - Mint Chocolate Ice Cream
+2024-06-20 21:55:03,299 - INFO - Order received: f84d8263-7aae-4254-85b7-27865ffd76b7 - Arugula, Prep Time: 3s
+2024-06-20 21:55:03,301 - INFO - Courier: 26 dispatched for any Order
+2024-06-20 21:55:03,382 - INFO - Courier: 14 arrived for any Order
+2024-06-20 21:55:03,518 - INFO - Courier: 1 arrived for any Order
+2024-06-20 21:55:03,736 - INFO - Order prepared: 60fbe431-7f7f-46c5-8ecf-6a26ae898685 - Beef Stew
+2024-06-20 21:55:03,805 - INFO - Order received: f7074980-3424-43d4-9166-f495077a273e - Pickles, Prep Time: 5s
+2024-06-20 21:55:03,807 - INFO - Courier: 27 dispatched for any Order
+2024-06-20 21:55:04,026 - INFO - Courier: 2 arrived for any Order
+2024-06-20 21:55:04,026 - INFO - Order picked up: 0a6537d7-9568-400e-9857-7aceb4e7347c by Courier: 2
+2024-06-20 21:55:04,026 - INFO - Food wait time: 5811.095952987671 ms
+2024-06-20 21:55:04,027 - INFO - Courier wait time: 0.48995018005371094 ms
+2024-06-20 21:55:04,204 - INFO - Order prepared: 66a2611c-9a93-4ccd-bb85-98f423247bf9 - Cottage Cheese
+2024-06-20 21:55:04,311 - INFO - Order received: dcafe7ca-f7a7-4262-9b14-ab19729b2055 - Chicken, Prep Time: 8s
+2024-06-20 21:55:04,312 - INFO - Courier: 28 dispatched for any Order
+2024-06-20 21:55:04,457 - INFO - Courier: 17 arrived for any Order
+2024-06-20 21:55:04,458 - INFO - Order picked up: 74e0893f-8544-4298-b507-9cf5ab847d83 by Courier: 17
+2024-06-20 21:55:04,458 - INFO - Food wait time: 6740.679979324341 ms
+2024-06-20 21:55:04,458 - INFO - Courier wait time: 0.40411949157714844 ms
+2024-06-20 21:55:04,673 - INFO - Order prepared: 58e9b5fe-3fde-4a27-8e98-682e58a4a65d - McFlury
+2024-06-20 21:55:04,815 - INFO - Courier: 29 dispatched for any Order
+2024-06-20 21:55:04,817 - INFO - Order received: 614e4f4d-b2f4-4b60-9421-238f61affe20 - Cookie Dough, Prep Time: 9s
+2024-06-20 21:55:05,057 - INFO - Courier: 7 arrived for any Order
+2024-06-20 21:55:05,232 - INFO - Courier: 10 arrived for any Order
+2024-06-20 21:55:05,233 - INFO - Order picked up: 60fbe431-7f7f-46c5-8ecf-6a26ae898685 by Courier: 10
+2024-06-20 21:55:05,233 - INFO - Food wait time: 1495.9192276000977 ms
+2024-06-20 21:55:05,233 - INFO - Courier wait time: 0.5438327789306641 ms
+2024-06-20 21:55:05,248 - INFO - Courier: 4 arrived for any Order
+2024-06-20 21:55:05,249 - INFO - Order prepared: e868e485-c759-411b-b439-ca7086326bf6 - Beef Hash
+2024-06-20 21:55:05,251 - INFO - Courier: 11 arrived for any Order
+2024-06-20 21:55:05,251 - INFO - Order picked up: d4ead98f-a158-429c-9c0d-28ab0fa830a6 by Courier: 11
+2024-06-20 21:55:05,251 - INFO - Food wait time: 5505.10311126709 ms
+2024-06-20 21:55:05,251 - INFO - Courier wait time: 0.19407272338867188 ms
+2024-06-20 21:55:05,320 - INFO - Order received: d2d2d948-f019-4806-bb7e-bb2172bd75d9 - Hamburger, Prep Time: 6s
+2024-06-20 21:55:05,321 - INFO - Courier: 30 dispatched for any Order
+2024-06-20 21:55:05,824 - INFO - Order received: 8275f014-ed83-4554-b0ff-0dbdc24e57ad - French Fries, Prep Time: 6s
+2024-06-20 21:55:05,825 - INFO - Courier: 31 dispatched for any Order
+2024-06-20 21:55:06,078 - INFO - Courier: 8 arrived for any Order
+2024-06-20 21:55:06,078 - INFO - Order picked up: e868e485-c759-411b-b439-ca7086326bf6 by Courier: 8
+2024-06-20 21:55:06,078 - INFO - Food wait time: 828.9957046508789 ms
+2024-06-20 21:55:06,078 - INFO - Courier wait time: 0.3001689910888672 ms
+2024-06-20 21:55:06,305 - INFO - Order prepared: f84d8263-7aae-4254-85b7-27865ffd76b7 - Arugula
+2024-06-20 21:55:06,329 - INFO - Order received: 9687809b-8f4b-4a6f-be3f-6e41e4ced3ed - Ice, Prep Time: 5s
+2024-06-20 21:55:06,331 - INFO - Courier: 32 dispatched for any Order
+2024-06-20 21:55:06,707 - INFO - Order prepared: 4cc9d503-4e0e-42a3-b200-87c785468df9 - Coke
+2024-06-20 21:55:06,836 - INFO - Order received: e537a1b8-1505-49ae-a71e-a3ab80e8b606 - Carne Asada, Prep Time: 8s
+2024-06-20 21:55:06,836 - INFO - Courier: 33 dispatched for any Order
+2024-06-20 21:55:07,298 - INFO - Order prepared: 53f012e3-da55-4314-b2e6-28e63f0418ad - Milk
+2024-06-20 21:55:07,340 - INFO - Order received: 3aaccfce-3dbe-4967-a2fb-b6c06b4de61d - Sherbet, Prep Time: 6s
+2024-06-20 21:55:07,341 - INFO - Courier: 34 dispatched for any Order
+2024-06-20 21:55:07,842 - INFO - Order received: 1b56ee15-70e7-443e-96cb-0479e9d46381 - Orange Sorbet, Prep Time: 3s
+2024-06-20 21:55:07,842 - INFO - Courier: 35 dispatched for any Order
+2024-06-20 21:55:08,007 - INFO - Courier: 12 arrived for any Order
+2024-06-20 21:55:08,220 - INFO - Order prepared: 7a5ea4ed-e378-4354-8ab3-a09cf563f621 - Chunky Monkey
+2024-06-20 21:55:08,236 - INFO - Order prepared: 2e7f4153-92cb-43e2-96f4-d77e2f25422b - Cheese
+2024-06-20 21:55:08,237 - INFO - Courier: 23 arrived for any Order
+2024-06-20 21:55:08,237 - INFO - Order picked up: 1a4d0e6d-e50e-4ec0-ad5d-0f33e6a724e6 by Courier: 23
+2024-06-20 21:55:08,237 - INFO - Food wait time: 4973.258972167969 ms
+2024-06-20 21:55:08,237 - INFO - Courier wait time: 0.202178955078125 ms
+2024-06-20 21:55:08,346 - INFO - Courier: 36 dispatched for any Order
+2024-06-20 21:55:08,346 - INFO - Order received: 51c5017b-f812-40ac-8d68-87aab3fbab6a - Frosty, Prep Time: 13s
+2024-06-20 21:55:08,641 - INFO - Courier: 20 arrived for any Order
+2024-06-20 21:55:08,791 - INFO - Order prepared: ed05dafe-d928-4f1a-856d-1dab3868acbd - MeatLoaf
+2024-06-20 21:55:08,810 - INFO - Order prepared: f7074980-3424-43d4-9166-f495077a273e - Pickles
+2024-06-20 21:55:08,830 - INFO - Courier: 24 arrived for any Order
+2024-06-20 21:55:08,830 - INFO - Order picked up: 58e9b5fe-3fde-4a27-8e98-682e58a4a65d by Courier: 24
+2024-06-20 21:55:08,831 - INFO - Food wait time: 4157.098054885864 ms
+2024-06-20 21:55:08,831 - INFO - Courier wait time: 0.3790855407714844 ms
+2024-06-20 21:55:08,847 - INFO - Order received: 9748651e-c3f8-4c4a-9de9-5360467c86a2 - Fresh Bread, Prep Time: 10s
+2024-06-20 21:55:08,852 - INFO - Courier: 37 dispatched for any Order
+2024-06-20 21:55:09,186 - INFO - Courier: 22 arrived for any Order
+2024-06-20 21:55:09,353 - INFO - Order received: 345cfefe-692e-4866-986e-99a18bedbf24 - Burrito, Prep Time: 11s
+2024-06-20 21:55:09,356 - INFO - Courier: 38 dispatched for any Order
+2024-06-20 21:55:09,598 - INFO - Courier: 13 arrived for any Order
+2024-06-20 21:55:09,598 - INFO - Order picked up: 916ddba3-9c25-4065-8a90-ecf5c40c8394 by Courier: 13
+2024-06-20 21:55:09,598 - INFO - Food wait time: 6823.893070220947 ms
+2024-06-20 21:55:09,598 - INFO - Courier wait time: 0.3180503845214844 ms
+2024-06-20 21:55:09,757 - INFO - Order prepared: 2bfc7ca9-d8ea-4625-9a03-6aa4b5fb635e - Pork Chop
+2024-06-20 21:55:09,858 - INFO - Courier: 39 dispatched for any Order
+2024-06-20 21:55:09,859 - INFO - Order received: 87441694-ff97-4d1b-89e3-c4b0b1fd041e - Icy, Prep Time: 5s
+2024-06-20 21:55:10,074 - INFO - Courier: 18 arrived for any Order
+2024-06-20 21:55:10,074 - INFO - Order picked up: 23f5cb3a-fa51-49ad-9e29-83e98d6e7d6f by Courier: 18
+2024-06-20 21:55:10,074 - INFO - Food wait time: 6795.188903808594 ms
+2024-06-20 21:55:10,074 - INFO - Courier wait time: 0.30493736267089844 ms
+2024-06-20 21:55:10,362 - INFO - Courier: 40 dispatched for any Order
+2024-06-20 21:55:10,364 - INFO - Order received: 3713d8af-e6a0-4c11-966c-f26786dc602c - Push Pop, Prep Time: 15s
+2024-06-20 21:55:10,784 - INFO - Order prepared: c700ab30-d7bd-4e45-aafb-4329876c716c - Vegan Pizza
+2024-06-20 21:55:10,802 - INFO - Order prepared: 5dd79771-4536-4eaa-b64c-63ac606f1357 - Pastrami Sandwich
+2024-06-20 21:55:10,847 - INFO - Order prepared: 1b56ee15-70e7-443e-96cb-0479e9d46381 - Orange Sorbet
+2024-06-20 21:55:10,864 - INFO - Courier: 41 dispatched for any Order
+2024-06-20 21:55:10,865 - INFO - Order received: 20343dea-8856-4717-9be9-be1b37d4791f - Pasta, Prep Time: 14s
+2024-06-20 21:55:11,143 - INFO - Courier: 25 arrived for any Order
+2024-06-20 21:55:11,143 - INFO - Order picked up: 2ec069e3-576f-48eb-869f-74a540ef840c by Courier: 25
+2024-06-20 21:55:11,143 - INFO - Food wait time: 7963.186979293823 ms
+2024-06-20 21:55:11,143 - INFO - Courier wait time: 0.5009174346923828 ms
+2024-06-20 21:55:11,288 - INFO - Courier: 16 arrived for any Order
+2024-06-20 21:55:11,289 - INFO - Order picked up: c700ab30-d7bd-4e45-aafb-4329876c716c by Courier: 16
+2024-06-20 21:55:11,289 - INFO - Food wait time: 504.01902198791504 ms
+2024-06-20 21:55:11,289 - INFO - Courier wait time: 0.47206878662109375 ms
+2024-06-20 21:55:11,326 - INFO - Order prepared: d2d2d948-f019-4806-bb7e-bb2172bd75d9 - Hamburger
+2024-06-20 21:55:11,332 - INFO - Order prepared: 9687809b-8f4b-4a6f-be3f-6e41e4ced3ed - Ice
+2024-06-20 21:55:11,369 - INFO - Courier: 42 dispatched for any Order
+2024-06-20 21:55:11,371 - INFO - Order received: 098604b5-a141-4a5f-a2e3-0b653515cc42 - Chicken Nuggets, Prep Time: 4s
+2024-06-20 21:55:11,500 - INFO - Courier: 35 arrived for any Order
+2024-06-20 21:55:11,831 - INFO - Order prepared: 8275f014-ed83-4554-b0ff-0dbdc24e57ad - French Fries
+2024-06-20 21:55:11,871 - INFO - Courier: 43 dispatched for any Order
+2024-06-20 21:55:11,875 - INFO - Order received: a5697bad-48d4-46fd-b3bc-64ef2485907a - Ice Cream Sandwich, Prep Time: 7s
+2024-06-20 21:55:12,026 - INFO - Courier: 32 arrived for any Order
+2024-06-20 21:55:12,027 - INFO - Order picked up: ed05dafe-d928-4f1a-856d-1dab3868acbd by Courier: 32
+2024-06-20 21:55:12,027 - INFO - Food wait time: 3235.434055328369 ms
+2024-06-20 21:55:12,027 - INFO - Courier wait time: 0.34809112548828125 ms
+2024-06-20 21:55:12,312 - INFO - Order prepared: dcafe7ca-f7a7-4262-9b14-ab19729b2055 - Chicken
+2024-06-20 21:55:12,376 - INFO - Courier: 44 dispatched for any Order
+2024-06-20 21:55:12,379 - INFO - Order received: e09f9282-8e05-48a7-8e6e-e23937383735 - Taco, Prep Time: 12s
+2024-06-20 21:55:12,686 - INFO - Courier: 19 arrived for any Order
+2024-06-20 21:55:12,686 - INFO - Order picked up: 53f012e3-da55-4314-b2e6-28e63f0418ad by Courier: 19
+2024-06-20 21:55:12,687 - INFO - Food wait time: 5388.348817825317 ms
+2024-06-20 21:55:12,687 - INFO - Courier wait time: 0.4563331604003906 ms
+2024-06-20 21:55:12,882 - INFO - Courier: 45 dispatched for any Order
+2024-06-20 21:55:12,884 - INFO - Order received: 9df6bbc7-55ee-4f67-8dd1-a9f5ccc56355 - Tomato Soup, Prep Time: 12s
+2024-06-20 21:55:13,271 - INFO - Order prepared: 6d2c9eb3-6ff8-408a-a60d-e60eaa467dae - Cranberry Salad
+2024-06-20 21:55:13,343 - INFO - Order prepared: 3aaccfce-3dbe-4967-a2fb-b6c06b4de61d - Sherbet
+2024-06-20 21:55:13,343 - INFO - Courier: 21 arrived for any Order
+2024-06-20 21:55:13,344 - INFO - Order picked up: 5dd79771-4536-4eaa-b64c-63ac606f1357 by Courier: 21
+2024-06-20 21:55:13,344 - INFO - Food wait time: 2541.663885116577 ms
+2024-06-20 21:55:13,344 - INFO - Courier wait time: 0.29921531677246094 ms
+2024-06-20 21:55:13,388 - INFO - Courier: 46 dispatched for any Order
+2024-06-20 21:55:13,388 - INFO - Order received: a2b13869-6b7e-4e35-8e11-fa9889d24073 - Vanilla Ice Cream, Prep Time: 15s
+2024-06-20 21:55:13,769 - INFO - Order prepared: a9f8f42f-7a58-4629-8b66-1acbf362f3b8 - Fresh Fruit
+2024-06-20 21:55:13,822 - INFO - Order prepared: 614e4f4d-b2f4-4b60-9421-238f61affe20 - Cookie Dough
+2024-06-20 21:55:13,893 - INFO - Courier: 47 dispatched for any Order
+2024-06-20 21:55:13,894 - INFO - Order received: 0522c2ec-0242-45e7-8542-f3e98c1384b9 - Poppers, Prep Time: 8s
+2024-06-20 21:55:13,923 - INFO - Courier: 29 arrived for any Order
+2024-06-20 21:55:13,924 - INFO - Order picked up: f84d8263-7aae-4254-85b7-27865ffd76b7 by Courier: 29
+2024-06-20 21:55:13,924 - INFO - Food wait time: 7618.447780609131 ms
+2024-06-20 21:55:13,924 - INFO - Courier wait time: 0.2770423889160156 ms
+2024-06-20 21:55:14,017 - INFO - Courier: 28 arrived for any Order
+2024-06-20 21:55:14,018 - INFO - Order picked up: 66a2611c-9a93-4ccd-bb85-98f423247bf9 by Courier: 28
+2024-06-20 21:55:14,018 - INFO - Food wait time: 9812.670946121216 ms
+2024-06-20 21:55:14,018 - INFO - Courier wait time: 0.5311965942382812 ms
+2024-06-20 21:55:14,399 - INFO - Order received: aba0fc48-ec05-422f-aad4-8b8ec4de636d - Popsicle, Prep Time: 13s
+2024-06-20 21:55:14,399 - INFO - Courier: 48 dispatched for any Order
+2024-06-20 21:55:14,616 - INFO - Courier: 42 arrived for any Order
+2024-06-20 21:55:14,617 - INFO - Order picked up: 4cc9d503-4e0e-42a3-b200-87c785468df9 by Courier: 42
+2024-06-20 21:55:14,617 - INFO - Food wait time: 7908.881902694702 ms
+2024-06-20 21:55:14,617 - INFO - Courier wait time: 0.2880096435546875 ms
+2024-06-20 21:55:14,841 - INFO - Order prepared: e537a1b8-1505-49ae-a71e-a3ab80e8b606 - Carne Asada
+2024-06-20 21:55:14,863 - INFO - Order prepared: 87441694-ff97-4d1b-89e3-c4b0b1fd041e - Icy
+2024-06-20 21:55:14,904 - INFO - Order received: 68515b89-96bf-48b6-a07c-68cf17ca3c25 - Strawberries, Prep Time: 11s
+2024-06-20 21:55:14,905 - INFO - Courier: 49 dispatched for any Order
+2024-06-20 21:55:15,374 - INFO - Order prepared: 098604b5-a141-4a5f-a2e3-0b653515cc42 - Chicken Nuggets
+2024-06-20 21:55:15,410 - INFO - Courier: 50 dispatched for any Order
+2024-06-20 21:55:15,411 - INFO - Order received: caf107cc-e6d6-421c-9991-8bcfcc15d5c5 - Brown Rice, Prep Time: 6s
+2024-06-20 21:55:15,671 - INFO - Courier: 40 arrived for any Order
+2024-06-20 21:55:15,672 - INFO - Order picked up: f7074980-3424-43d4-9166-f495077a273e by Courier: 40
+2024-06-20 21:55:15,672 - INFO - Food wait time: 6860.671043395996 ms
+2024-06-20 21:55:15,672 - INFO - Courier wait time: 0.6120204925537109 ms
+2024-06-20 21:55:15,912 - INFO - Courier: 51 dispatched for any Order
+2024-06-20 21:55:15,913 - INFO - Order received: 4d308771-a0d6-46e7-8ff1-679ddc1d1aa4 - Cheese Pizza, Prep Time: 10s
+2024-06-20 21:55:16,241 - INFO - Courier: 31 arrived for any Order
+2024-06-20 21:55:16,242 - INFO - Order picked up: dcafe7ca-f7a7-4262-9b14-ab19729b2055 by Courier: 31
+2024-06-20 21:55:16,242 - INFO - Food wait time: 3929.1038513183594 ms
+2024-06-20 21:55:16,242 - INFO - Courier wait time: 0.5710124969482422 ms
+2024-06-20 21:55:16,291 - INFO - Order prepared: cf0932a9-533c-4603-bb1e-512c6e697b92 - Orange Chicken
+2024-06-20 21:55:16,416 - INFO - Courier: 52 dispatched for any Order
+2024-06-20 21:55:16,419 - INFO - Order received: 78b92574-49cd-4995-b5d0-635b3ced5a18 - Pressed Juice, Prep Time: 14s
+2024-06-20 21:55:16,700 - INFO - Courier: 30 arrived for any Order
+2024-06-20 21:55:16,700 - INFO - Order picked up: 614e4f4d-b2f4-4b60-9421-238f61affe20 by Courier: 30
+2024-06-20 21:55:16,700 - INFO - Food wait time: 2877.64573097229 ms
+2024-06-20 21:55:16,700 - INFO - Courier wait time: 0.4100799560546875 ms
+2024-06-20 21:55:16,922 - INFO - Courier: 53 dispatched for any Order
+2024-06-20 21:55:16,924 - INFO - Order received: 1fab9088-d99d-47ee-acf5-d0f0851738e4 - Coconut, Prep Time: 14s
+2024-06-20 21:55:17,205 - INFO - Courier: 33 arrived for any Order
+2024-06-20 21:55:17,206 - INFO - Order picked up: 7a5ea4ed-e378-4354-8ab3-a09cf563f621 by Courier: 33
+2024-06-20 21:55:17,206 - INFO - Food wait time: 8985.316038131714 ms
+2024-06-20 21:55:17,206 - INFO - Courier wait time: 0.6909370422363281 ms
+2024-06-20 21:55:17,328 - INFO - Courier: 27 arrived for any Order
+2024-06-20 21:55:17,329 - INFO - Order picked up: 2e7f4153-92cb-43e2-96f4-d77e2f25422b by Courier: 27
+2024-06-20 21:55:17,329 - INFO - Food wait time: 9092.007160186768 ms
+2024-06-20 21:55:17,329 - INFO - Courier wait time: 0.2906322479248047 ms
+2024-06-20 21:55:17,424 - INFO - Courier: 54 dispatched for any Order
+2024-06-20 21:55:17,429 - INFO - Order received: d7864cd5-f557-4c3e-93d9-b3fb6bb4a37b - Onion Rings, Prep Time: 9s
+2024-06-20 21:55:17,930 - INFO - Courier: 55 dispatched for any Order
+2024-06-20 21:55:17,932 - INFO - Order received: 5f06be90-beac-4a51-a871-f8e324d38c3c - Fish Tacos, Prep Time: 10s
+2024-06-20 21:55:18,179 - INFO - Courier: 39 arrived for any Order
+2024-06-20 21:55:18,180 - INFO - Order picked up: d2d2d948-f019-4806-bb7e-bb2172bd75d9 by Courier: 39
+2024-06-20 21:55:18,180 - INFO - Food wait time: 6853.572845458984 ms
+2024-06-20 21:55:18,180 - INFO - Courier wait time: 0.48923492431640625 ms
+2024-06-20 21:55:18,297 - INFO - Courier: 26 arrived for any Order
+2024-06-20 21:55:18,297 - INFO - Order picked up: 8275f014-ed83-4554-b0ff-0dbdc24e57ad by Courier: 26
+2024-06-20 21:55:18,297 - INFO - Food wait time: 6466.031074523926 ms
+2024-06-20 21:55:18,297 - INFO - Courier wait time: 0.4050731658935547 ms
+2024-06-20 21:55:18,433 - INFO - Courier: 56 dispatched for any Order
+2024-06-20 21:55:18,435 - INFO - Order received: 90367105-ec26-41d8-a4a2-6c474d3f703b - Pot Stickers, Prep Time: 3s
+2024-06-20 21:55:18,491 - INFO - Courier: 48 arrived for any Order
+2024-06-20 21:55:18,491 - INFO - Order picked up: 9687809b-8f4b-4a6f-be3f-6e41e4ced3ed by Courier: 48
+2024-06-20 21:55:18,491 - INFO - Food wait time: 7158.689022064209 ms
+2024-06-20 21:55:18,491 - INFO - Courier wait time: 0.45680999755859375 ms
+2024-06-20 21:55:18,513 - INFO - Courier: 37 arrived for any Order
+2024-06-20 21:55:18,513 - INFO - Order picked up: e537a1b8-1505-49ae-a71e-a3ab80e8b606 by Courier: 37
+2024-06-20 21:55:18,513 - INFO - Food wait time: 3672.2328662872314 ms
+2024-06-20 21:55:18,514 - INFO - Courier wait time: 0.4420280456542969 ms
+2024-06-20 21:55:18,851 - INFO - Order prepared: 9748651e-c3f8-4c4a-9de9-5360467c86a2 - Fresh Bread
+2024-06-20 21:55:18,877 - INFO - Order prepared: a5697bad-48d4-46fd-b3bc-64ef2485907a - Ice Cream Sandwich
+2024-06-20 21:55:18,937 - INFO - Courier: 57 dispatched for any Order
+2024-06-20 21:55:18,941 - INFO - Order received: 05ef2197-5e9a-446b-825e-4d169bdf5670 - Kombucha, Prep Time: 6s
+2024-06-20 21:55:18,967 - INFO - Courier: 38 arrived for any Order
+2024-06-20 21:55:18,967 - INFO - Order picked up: 3aaccfce-3dbe-4967-a2fb-b6c06b4de61d by Courier: 38
+2024-06-20 21:55:18,967 - INFO - Food wait time: 5624.053955078125 ms
+2024-06-20 21:55:18,967 - INFO - Courier wait time: 0.3199577331542969 ms
+2024-06-20 21:55:19,443 - INFO - Courier: 58 dispatched for any Order
+2024-06-20 21:55:19,446 - INFO - Order received: 41330835-9221-483a-924f-08c7f664d656 - Mixed Greens, Prep Time: 13s
+2024-06-20 21:55:19,724 - INFO - Courier: 44 arrived for any Order
+2024-06-20 21:55:19,725 - INFO - Order picked up: 1b56ee15-70e7-443e-96cb-0479e9d46381 by Courier: 44
+2024-06-20 21:55:19,725 - INFO - Food wait time: 8876.760959625244 ms
+2024-06-20 21:55:19,725 - INFO - Courier wait time: 0.6949901580810547 ms
+2024-06-20 21:55:19,817 - INFO - Courier: 52 arrived for any Order
+2024-06-20 21:55:19,817 - INFO - Order picked up: 2bfc7ca9-d8ea-4625-9a03-6aa4b5fb635e by Courier: 52
+2024-06-20 21:55:19,817 - INFO - Food wait time: 10059.690952301025 ms
+2024-06-20 21:55:19,817 - INFO - Courier wait time: 0.5180835723876953 ms
+2024-06-20 21:55:19,949 - INFO - Order received: 51754609-3f89-487b-9888-bac0a65f86e2 - Sushi, Prep Time: 8s
+2024-06-20 21:55:19,950 - INFO - Courier: 59 dispatched for any Order
+2024-06-20 21:55:20,330 - INFO - Courier: 47 arrived for any Order
+2024-06-20 21:55:20,358 - INFO - Order prepared: 345cfefe-692e-4866-986e-99a18bedbf24 - Burrito
+2024-06-20 21:55:20,407 - INFO - Courier: 50 arrived for any Order
+2024-06-20 21:55:20,408 - INFO - Order picked up: a9f8f42f-7a58-4629-8b66-1acbf362f3b8 by Courier: 50
+2024-06-20 21:55:20,408 - INFO - Food wait time: 6637.434959411621 ms
+2024-06-20 21:55:20,408 - INFO - Courier wait time: 0.7290840148925781 ms
+2024-06-20 21:55:20,452 - INFO - Order received: 3f0008f5-9429-4a16-ae44-f8f4256797ca - Apples, Prep Time: 5s
+2024-06-20 21:55:20,454 - INFO - Courier: 60 dispatched for any Order
+2024-06-20 21:55:20,700 - INFO - Courier: 43 arrived for any Order
+2024-06-20 21:55:20,701 - INFO - Order picked up: 9748651e-c3f8-4c4a-9de9-5360467c86a2 by Courier: 43
+2024-06-20 21:55:20,701 - INFO - Food wait time: 1848.9599227905273 ms
+2024-06-20 21:55:20,701 - INFO - Courier wait time: 0.2980232238769531 ms
+2024-06-20 21:55:20,958 - INFO - Courier: 61 dispatched for any Order
+2024-06-20 21:55:20,959 - INFO - Order received: c052077c-687d-4f24-b2e1-75edeee1186a - Kebab, Prep Time: 10s
+2024-06-20 21:55:21,352 - INFO - Order prepared: 51c5017b-f812-40ac-8d68-87aab3fbab6a - Frosty
+2024-06-20 21:55:21,416 - INFO - Order prepared: caf107cc-e6d6-421c-9991-8bcfcc15d5c5 - Brown Rice
+2024-06-20 21:55:21,440 - INFO - Order prepared: 90367105-ec26-41d8-a4a2-6c474d3f703b - Pot Stickers
+2024-06-20 21:55:21,463 - INFO - Courier: 62 dispatched for any Order
+2024-06-20 21:55:21,464 - INFO - Order received: 1b481a3e-84eb-4532-bd29-47f04e3e7adc - Mac & Cheese, Prep Time: 12s
+2024-06-20 21:55:21,722 - INFO - Courier: 34 arrived for any Order
+2024-06-20 21:55:21,722 - INFO - Order picked up: 6d2c9eb3-6ff8-408a-a60d-e60eaa467dae by Courier: 34
+2024-06-20 21:55:21,723 - INFO - Food wait time: 8451.00212097168 ms
+2024-06-20 21:55:21,723 - INFO - Courier wait time: 0.5879402160644531 ms
+2024-06-20 21:55:21,900 - INFO - Order prepared: 0522c2ec-0242-45e7-8542-f3e98c1384b9 - Poppers
+2024-06-20 21:55:21,966 - INFO - Courier: 63 dispatched for any Order
+2024-06-20 21:55:21,967 - INFO - Order received: b5d9491a-54b7-4916-a379-fed69d5d180d - Corn Dog, Prep Time: 11s
+2024-06-20 21:55:22,293 - INFO - Courier: 36 arrived for any Order
+2024-06-20 21:55:22,293 - INFO - Order picked up: 345cfefe-692e-4866-986e-99a18bedbf24 by Courier: 36
+2024-06-20 21:55:22,293 - INFO - Food wait time: 1934.48805809021 ms
+2024-06-20 21:55:22,293 - INFO - Courier wait time: 0.5676746368408203 ms
+2024-06-20 21:55:22,472 - INFO - Order received: 7bdf9af2-d90e-44e2-9c6c-1ff7b5121133 - Grilled Corn Salad, Prep Time: 7s
+2024-06-20 21:55:22,473 - INFO - Courier: 64 dispatched for any Order
+2024-06-20 21:55:22,534 - INFO - Courier: 58 arrived for any Order
+2024-06-20 21:55:22,535 - INFO - Order picked up: 87441694-ff97-4d1b-89e3-c4b0b1fd041e by Courier: 58
+2024-06-20 21:55:22,535 - INFO - Food wait time: 7671.987056732178 ms
+2024-06-20 21:55:22,535 - INFO - Courier wait time: 0.5941390991210938 ms
+2024-06-20 21:55:22,935 - INFO - Courier: 51 arrived for any Order
+2024-06-20 21:55:22,978 - INFO - Order received: 4b5793f3-2af5-4ac3-816a-7f9c6f91483c - Pistachio Ice Cream, Prep Time: 8s
+2024-06-20 21:55:22,978 - INFO - Courier: 65 dispatched for any Order
+2024-06-20 21:55:23,481 - INFO - Courier: 66 dispatched for any Order
+2024-06-20 21:55:23,482 - INFO - Order received: 160ccc3a-af83-43e0-af0b-6a889aea7339 - Strawberyy Banana Split, Prep Time: 9s
+2024-06-20 21:55:23,953 - INFO - Courier: 49 arrived for any Order
+2024-06-20 21:55:23,986 - INFO - Order received: 3b9da9f3-2465-4fbc-84c5-5ecb9bd132b1 - McFlury, Prep Time: 13s
+2024-06-20 21:55:23,987 - INFO - Courier: 67 dispatched for any Order
+2024-06-20 21:55:24,091 - INFO - Courier: 57 arrived for any Order
+2024-06-20 21:55:24,092 - INFO - Order picked up: 098604b5-a141-4a5f-a2e3-0b653515cc42 by Courier: 57
+2024-06-20 21:55:24,092 - INFO - Food wait time: 8717.126846313477 ms
+2024-06-20 21:55:24,092 - INFO - Courier wait time: 0.4572868347167969 ms
+2024-06-20 21:55:24,385 - INFO - Order prepared: e09f9282-8e05-48a7-8e6e-e23937383735 - Taco
+2024-06-20 21:55:24,492 - INFO - Order received: e6b72c73-fa53-4f2c-a004-0b60ba7b3be9 - Acai Bowl, Prep Time: 9s
+2024-06-20 21:55:24,493 - INFO - Courier: 68 dispatched for any Order
+2024-06-20 21:55:24,867 - INFO - Order prepared: 20343dea-8856-4717-9be9-be1b37d4791f - Pasta
+2024-06-20 21:55:24,886 - INFO - Order prepared: 9df6bbc7-55ee-4f67-8dd1-a9f5ccc56355 - Tomato Soup
+2024-06-20 21:55:24,928 - INFO - Courier: 46 arrived for any Order
+2024-06-20 21:55:24,928 - INFO - Order picked up: cf0932a9-533c-4603-bb1e-512c6e697b92 by Courier: 46
+2024-06-20 21:55:24,928 - INFO - Food wait time: 8636.41881942749 ms
+2024-06-20 21:55:24,929 - INFO - Courier wait time: 0.5881786346435547 ms
+2024-06-20 21:55:24,946 - INFO - Order prepared: 05ef2197-5e9a-446b-825e-4d169bdf5670 - Kombucha
+2024-06-20 21:55:24,998 - INFO - Order received: 4546646c-3ca5-4da6-9c60-312a897a6907 - Yogurt, Prep Time: 8s
+2024-06-20 21:55:24,999 - INFO - Courier: 69 dispatched for any Order
+2024-06-20 21:55:25,366 - INFO - Order prepared: 3713d8af-e6a0-4c11-966c-f26786dc602c - Push Pop
+2024-06-20 21:55:25,450 - INFO - Courier: 55 arrived for any Order
+2024-06-20 21:55:25,450 - INFO - Order picked up: a5697bad-48d4-46fd-b3bc-64ef2485907a by Courier: 55
+2024-06-20 21:55:25,451 - INFO - Food wait time: 6572.945117950439 ms
+2024-06-20 21:55:25,451 - INFO - Courier wait time: 0.7398128509521484 ms
+2024-06-20 21:55:25,454 - INFO - Order prepared: 3f0008f5-9429-4a16-ae44-f8f4256797ca - Apples
+2024-06-20 21:55:25,504 - INFO - Order received: 8ea031b3-6545-4140-9dee-745268d7b877 - Chocolate Gelato, Prep Time: 9s
+2024-06-20 21:55:25,505 - INFO - Courier: 70 dispatched for any Order
+2024-06-20 21:55:25,807 - INFO - Courier: 41 arrived for any Order
+2024-06-20 21:55:25,807 - INFO - Order picked up: e09f9282-8e05-48a7-8e6e-e23937383735 by Courier: 41
+2024-06-20 21:55:25,807 - INFO - Food wait time: 1422.0938682556152 ms
+2024-06-20 21:55:25,807 - INFO - Courier wait time: 0.2810955047607422 ms
+2024-06-20 21:55:25,867 - INFO - Courier: 45 arrived for any Order
+2024-06-20 21:55:25,867 - INFO - Order picked up: 9df6bbc7-55ee-4f67-8dd1-a9f5ccc56355 by Courier: 45
+2024-06-20 21:55:25,867 - INFO - Food wait time: 980.5831909179688 ms
+2024-06-20 21:55:25,867 - INFO - Courier wait time: 0.4379749298095703 ms
+2024-06-20 21:55:25,910 - INFO - Order prepared: 68515b89-96bf-48b6-a07c-68cf17ca3c25 - Strawberries
+2024-06-20 21:55:25,916 - INFO - Order prepared: 4d308771-a0d6-46e7-8ff1-679ddc1d1aa4 - Cheese Pizza
+2024-06-20 21:55:26,006 - INFO - Order received: 24f3e17b-eba0-409a-8630-463cb05d89c3 - Cobb Salad, Prep Time: 3s
+2024-06-20 21:55:26,007 - INFO - Courier: 71 dispatched for any Order
+2024-06-20 21:55:26,016 - INFO - Courier: 56 arrived for any Order
+2024-06-20 21:55:26,430 - INFO - Order prepared: d7864cd5-f557-4c3e-93d9-b3fb6bb4a37b - Onion Rings
+2024-06-20 21:55:26,508 - INFO - Order received: def3f65e-6ffb-4715-8561-ace9d312ddc5 - Cottage Cheese, Prep Time: 3s
+2024-06-20 21:55:26,512 - INFO - Courier: 72 dispatched for any Order
+2024-06-20 21:55:27,014 - INFO - Order received: 2c772706-189c-4ec4-80ad-06ea17f21f11 - Coke, Prep Time: 12s
+2024-06-20 21:55:27,018 - INFO - Courier: 73 dispatched for any Order
+2024-06-20 21:55:27,404 - INFO - Order prepared: aba0fc48-ec05-422f-aad4-8b8ec4de636d - Popsicle
+2024-06-20 21:55:27,520 - INFO - Order received: a0023411-c19d-4723-b6d1-6b8c8ff1b417 - Snow Cone, Prep Time: 15s
+2024-06-20 21:55:27,521 - INFO - Courier: 74 dispatched for any Order
+2024-06-20 21:55:27,543 - INFO - Courier: 61 arrived for any Order
+2024-06-20 21:55:27,543 - INFO - Order picked up: 0522c2ec-0242-45e7-8542-f3e98c1384b9 by Courier: 61
+2024-06-20 21:55:27,543 - INFO - Food wait time: 5643.164873123169 ms
+2024-06-20 21:55:27,544 - INFO - Courier wait time: 0.6771087646484375 ms
+2024-06-20 21:55:27,937 - INFO - Order prepared: 5f06be90-beac-4a51-a871-f8e324d38c3c - Fish Tacos
+2024-06-20 21:55:27,955 - INFO - Order prepared: 51754609-3f89-487b-9888-bac0a65f86e2 - Sushi
+2024-06-20 21:55:28,026 - INFO - Courier: 75 dispatched for any Order
+2024-06-20 21:55:28,027 - INFO - Order received: 46a4e47d-ccc1-4c88-a006-83930521899c - Pad See Ew, Prep Time: 10s
+2024-06-20 21:55:28,394 - INFO - Order prepared: a2b13869-6b7e-4e35-8e11-fa9889d24073 - Vanilla Ice Cream
+2024-06-20 21:55:28,533 - INFO - Courier: 76 dispatched for any Order
+2024-06-20 21:55:28,533 - INFO - Order received: e65ef8c8-d9e2-47cf-a6e2-ac976bcfdb9d - Chunky Monkey, Prep Time: 8s
+2024-06-20 21:55:29,009 - INFO - Order prepared: 24f3e17b-eba0-409a-8630-463cb05d89c3 - Cobb Salad
+2024-06-20 21:55:29,037 - INFO - Courier: 77 dispatched for any Order
+2024-06-20 21:55:29,038 - INFO - Order received: 848dfc63-eab6-48b7-a2db-04d13190ce8c - Beef Stew, Prep Time: 5s
+2024-06-20 21:55:29,166 - INFO - Courier: 60 arrived for any Order
+2024-06-20 21:55:29,167 - INFO - Order picked up: aba0fc48-ec05-422f-aad4-8b8ec4de636d by Courier: 60
+2024-06-20 21:55:29,167 - INFO - Food wait time: 1762.1099948883057 ms
+2024-06-20 21:55:29,167 - INFO - Courier wait time: 0.2810955047607422 ms
+2024-06-20 21:55:29,339 - INFO - Courier: 54 arrived for any Order
+2024-06-20 21:55:29,339 - INFO - Order picked up: 68515b89-96bf-48b6-a07c-68cf17ca3c25 by Courier: 54
+2024-06-20 21:55:29,339 - INFO - Food wait time: 3428.8647174835205 ms
+2024-06-20 21:55:29,339 - INFO - Courier wait time: 0.6551742553710938 ms
+2024-06-20 21:55:29,460 - INFO - Courier: 66 arrived for any Order
+2024-06-20 21:55:29,461 - INFO - Order picked up: caf107cc-e6d6-421c-9991-8bcfcc15d5c5 by Courier: 66
+2024-06-20 21:55:29,461 - INFO - Food wait time: 8044.450998306274 ms
+2024-06-20 21:55:29,461 - INFO - Courier wait time: 0.6899833679199219 ms
+2024-06-20 21:55:29,478 - INFO - Order prepared: 7bdf9af2-d90e-44e2-9c6c-1ff7b5121133 - Grilled Corn Salad
+2024-06-20 21:55:29,513 - INFO - Order prepared: def3f65e-6ffb-4715-8561-ace9d312ddc5 - Cottage Cheese
+2024-06-20 21:55:29,544 - INFO - Courier: 78 dispatched for any Order
+2024-06-20 21:55:29,544 - INFO - Order received: 42951124-c574-45a0-bddf-25e702c65914 - Cheese, Prep Time: 9s
+2024-06-20 21:55:29,580 - INFO - Courier: 53 arrived for any Order
+2024-06-20 21:55:29,580 - INFO - Order picked up: 4d308771-a0d6-46e7-8ff1-679ddc1d1aa4 by Courier: 53
+2024-06-20 21:55:29,581 - INFO - Food wait time: 3664.437770843506 ms
+2024-06-20 21:55:29,581 - INFO - Courier wait time: 0.38123130798339844 ms
+2024-06-20 21:55:30,048 - INFO - Order received: df726ab4-a999-46b5-8e31-4a1bd523fcb9 - Spinach Omelet, Prep Time: 15s
+2024-06-20 21:55:30,049 - INFO - Courier: 79 dispatched for any Order
+2024-06-20 21:55:30,423 - INFO - Order prepared: 78b92574-49cd-4995-b5d0-635b3ced5a18 - Pressed Juice
+2024-06-20 21:55:30,443 - INFO - Courier: 63 arrived for any Order
+2024-06-20 21:55:30,444 - INFO - Order picked up: 78b92574-49cd-4995-b5d0-635b3ced5a18 by Courier: 63
+2024-06-20 21:55:30,444 - INFO - Food wait time: 20.287036895751953 ms
+2024-06-20 21:55:30,444 - INFO - Courier wait time: 0.4508495330810547 ms
+2024-06-20 21:55:30,550 - INFO - Courier: 80 dispatched for any Order
+2024-06-20 21:55:30,553 - INFO - Order received: 5bb755b9-e6a8-4932-9139-bc04fafbc240 - Beef Hash, Prep Time: 13s
+2024-06-20 21:55:30,679 - INFO - Courier: 67 arrived for any Order
+2024-06-20 21:55:30,926 - INFO - Order prepared: 1fab9088-d99d-47ee-acf5-d0f0851738e4 - Coconut
+2024-06-20 21:55:30,964 - INFO - Order prepared: c052077c-687d-4f24-b2e1-75edeee1186a - Kebab
+2024-06-20 21:55:30,983 - INFO - Order prepared: 4b5793f3-2af5-4ac3-816a-7f9c6f91483c - Pistachio Ice Cream
+2024-06-20 21:55:31,053 - INFO - Courier: 81 dispatched for any Order
+2024-06-20 21:55:31,055 - INFO - Order received: 58dbdb26-670c-4dac-b72c-21152f5d62e7 - Pork Chop, Prep Time: 10s
+2024-06-20 21:55:31,059 - INFO - Courier: 65 arrived for any Order
+2024-06-20 21:55:31,059 - INFO - Order picked up: d7864cd5-f557-4c3e-93d9-b3fb6bb4a37b by Courier: 65
+2024-06-20 21:55:31,059 - INFO - Food wait time: 4628.368139266968 ms
+2024-06-20 21:55:31,059 - INFO - Courier wait time: 0.13399124145507812 ms
+2024-06-20 21:55:31,554 - INFO - Courier: 82 dispatched for any Order
+2024-06-20 21:55:31,560 - INFO - Order received: 4ed428d6-f247-451a-aebf-c5157b2eb502 - Kale Salad, Prep Time: 14s
+2024-06-20 21:55:32,055 - INFO - Courier: 83 dispatched for any Order
+2024-06-20 21:55:32,065 - INFO - Order received: 62e667ee-a86d-4be2-97f6-a6af60183e88 - Fresh Fruit, Prep Time: 6s
+2024-06-20 21:55:32,197 - INFO - Courier: 72 arrived for any Order
+2024-06-20 21:55:32,198 - INFO - Order picked up: 5f06be90-beac-4a51-a871-f8e324d38c3c by Courier: 72
+2024-06-20 21:55:32,198 - INFO - Food wait time: 4260.081052780151 ms
+2024-06-20 21:55:32,198 - INFO - Courier wait time: 0.41484832763671875 ms
+2024-06-20 21:55:32,450 - INFO - Order prepared: 41330835-9221-483a-924f-08c7f664d656 - Mixed Greens
+2024-06-20 21:55:32,487 - INFO - Order prepared: 160ccc3a-af83-43e0-af0b-6a889aea7339 - Strawberyy Banana Split
+2024-06-20 21:55:32,561 - INFO - Courier: 84 dispatched for any Order
+2024-06-20 21:55:32,571 - INFO - Order received: df4e3e19-55d2-4131-8ab0-3563b44f8291 - Cranberry Salad, Prep Time: 9s
+2024-06-20 21:55:32,972 - INFO - Order prepared: b5d9491a-54b7-4916-a379-fed69d5d180d - Corn Dog
+2024-06-20 21:55:33,004 - INFO - Order prepared: 4546646c-3ca5-4da6-9c60-312a897a6907 - Yogurt
+2024-06-20 21:55:33,066 - INFO - Courier: 85 dispatched for any Order
+2024-06-20 21:55:33,077 - INFO - Order received: 44e6ea89-f11c-414d-aa72-7c10641eff8d - Fudge Ice Cream Cake, Prep Time: 15s
+2024-06-20 21:55:33,471 - INFO - Order prepared: 1b481a3e-84eb-4532-bd29-47f04e3e7adc - Mac & Cheese
+2024-06-20 21:55:33,498 - INFO - Order prepared: e6b72c73-fa53-4f2c-a004-0b60ba7b3be9 - Acai Bowl
+2024-06-20 21:55:33,572 - INFO - Courier: 86 dispatched for any Order
+2024-06-20 21:55:33,583 - INFO - Order received: 48465fc7-d534-4b9b-b919-63e5beebd301 - Mint Chocolate Ice Cream, Prep Time: 10s
+2024-06-20 21:55:33,991 - INFO - Courier: 69 arrived for any Order
+2024-06-20 21:55:33,991 - INFO - Order picked up: 90367105-ec26-41d8-a4a2-6c474d3f703b by Courier: 69
+2024-06-20 21:55:33,991 - INFO - Food wait time: 12551.326990127563 ms
+2024-06-20 21:55:33,991 - INFO - Courier wait time: 0.553131103515625 ms
+2024-06-20 21:55:34,041 - INFO - Order prepared: 848dfc63-eab6-48b7-a2db-04d13190ce8c - Beef Stew
+2024-06-20 21:55:34,078 - INFO - Courier: 87 dispatched for any Order
+2024-06-20 21:55:34,084 - INFO - Order received: fb850bd3-728f-4118-a097-2bcf3a12c239 - Vegan Pizza, Prep Time: 8s
+2024-06-20 21:55:34,476 - INFO - Courier: 68 arrived for any Order
+2024-06-20 21:55:34,476 - INFO - Order picked up: 05ef2197-5e9a-446b-825e-4d169bdf5670 by Courier: 68
+2024-06-20 21:55:34,477 - INFO - Food wait time: 9530.020713806152 ms
+2024-06-20 21:55:34,477 - INFO - Courier wait time: 0.6461143493652344 ms
+2024-06-20 21:55:34,510 - INFO - Order prepared: 8ea031b3-6545-4140-9dee-745268d7b877 - Chocolate Gelato
+2024-06-20 21:55:34,551 - INFO - Courier: 59 arrived for any Order
+2024-06-20 21:55:34,551 - INFO - Order picked up: 41330835-9221-483a-924f-08c7f664d656 by Courier: 59
+2024-06-20 21:55:34,551 - INFO - Food wait time: 2100.660800933838 ms
+2024-06-20 21:55:34,551 - INFO - Courier wait time: 0.37407875061035156 ms
+2024-06-20 21:55:34,584 - INFO - Courier: 88 dispatched for any Order
+2024-06-20 21:55:34,585 - INFO - Order received: 8d6a4d1a-ca56-4567-b3aa-a1e3d20f8017 - Orange Chicken, Prep Time: 6s
+2024-06-20 21:55:34,589 - INFO - Courier: 62 arrived for any Order
+2024-06-20 21:55:34,589 - INFO - Order picked up: 51754609-3f89-487b-9888-bac0a65f86e2 by Courier: 62
+2024-06-20 21:55:34,589 - INFO - Food wait time: 6634.018182754517 ms
+2024-06-20 21:55:34,589 - INFO - Courier wait time: 0.12493133544921875 ms
+2024-06-20 21:55:34,668 - INFO - Courier: 80 arrived for any Order
+2024-06-20 21:55:34,668 - INFO - Order picked up: 51c5017b-f812-40ac-8d68-87aab3fbab6a by Courier: 80
+2024-06-20 21:55:34,668 - INFO - Food wait time: 13316.289901733398 ms
+2024-06-20 21:55:34,668 - INFO - Courier wait time: 0.3638267517089844 ms
+2024-06-20 21:55:34,744 - INFO - Courier: 73 arrived for any Order
+2024-06-20 21:55:34,745 - INFO - Order picked up: 3f0008f5-9429-4a16-ae44-f8f4256797ca by Courier: 73
+2024-06-20 21:55:34,745 - INFO - Food wait time: 9290.275812149048 ms
+2024-06-20 21:55:34,745 - INFO - Courier wait time: 0.5543231964111328 ms
+2024-06-20 21:55:35,088 - INFO - Courier: 89 dispatched for any Order
+2024-06-20 21:55:35,089 - INFO - Order received: 68e83bf6-bdee-4192-8905-40140b421bc6 - MeatLoaf, Prep Time: 10s
+2024-06-20 21:55:35,556 - INFO - Courier: 64 arrived for any Order
+2024-06-20 21:55:35,556 - INFO - Order picked up: c052077c-687d-4f24-b2e1-75edeee1186a by Courier: 64
+2024-06-20 21:55:35,556 - INFO - Food wait time: 4591.269016265869 ms
+2024-06-20 21:55:35,556 - INFO - Courier wait time: 0.3159046173095703 ms
+2024-06-20 21:55:35,583 - INFO - Courier: 74 arrived for any Order
+2024-06-20 21:55:35,584 - INFO - Order picked up: 1b481a3e-84eb-4532-bd29-47f04e3e7adc by Courier: 74
+2024-06-20 21:55:35,584 - INFO - Food wait time: 2112.9040718078613 ms
+2024-06-20 21:55:35,584 - INFO - Courier wait time: 0.33926963806152344 ms
+2024-06-20 21:55:35,594 - INFO - Order received: 0d74c9f0-4fd5-4606-a1dc-019d9ab52af6 - Milk, Prep Time: 15s
+2024-06-20 21:55:35,595 - INFO - Courier: 90 dispatched for any Order
+2024-06-20 21:55:35,598 - INFO - Courier: 75 arrived for any Order
+2024-06-20 21:55:35,598 - INFO - Order picked up: b5d9491a-54b7-4916-a379-fed69d5d180d by Courier: 75
+2024-06-20 21:55:35,598 - INFO - Food wait time: 2625.739574432373 ms
+2024-06-20 21:55:35,598 - INFO - Courier wait time: 0.09322166442871094 ms
+2024-06-20 21:55:36,098 - INFO - Order received: 1b9a920d-2880-44a3-abba-20903f2690d6 - Pastrami Sandwich, Prep Time: 3s
+2024-06-20 21:55:36,098 - INFO - Courier: 91 dispatched for any Order
+2024-06-20 21:55:36,438 - INFO - Courier: 79 arrived for any Order
+2024-06-20 21:55:36,439 - INFO - Order picked up: 7bdf9af2-d90e-44e2-9c6c-1ff7b5121133 by Courier: 79
+2024-06-20 21:55:36,439 - INFO - Food wait time: 6960.497140884399 ms
+2024-06-20 21:55:36,439 - INFO - Courier wait time: 0.6530284881591797 ms
+2024-06-20 21:55:36,539 - INFO - Order prepared: e65ef8c8-d9e2-47cf-a6e2-ac976bcfdb9d - Chunky Monkey
+2024-06-20 21:55:36,601 - INFO - Order received: c5ec5a4b-818e-4478-8956-019259be4168 - Arugula, Prep Time: 13s
+2024-06-20 21:55:36,604 - INFO - Courier: 92 dispatched for any Order
+2024-06-20 21:55:36,663 - INFO - Courier: 81 arrived for any Order
+2024-06-20 21:55:36,663 - INFO - Order picked up: 3713d8af-e6a0-4c11-966c-f26786dc602c by Courier: 81
+2024-06-20 21:55:36,664 - INFO - Food wait time: 11296.151876449585 ms
+2024-06-20 21:55:36,664 - INFO - Courier wait time: 0.5879402160644531 ms
+2024-06-20 21:55:36,988 - INFO - Order prepared: 3b9da9f3-2465-4fbc-84c5-5ecb9bd132b1 - McFlury
+2024-06-20 21:55:37,103 - INFO - Order received: 4c25f887-03cc-4dcd-9945-6a8102c5ef22 - Pickles, Prep Time: 13s
+2024-06-20 21:55:37,109 - INFO - Courier: 93 dispatched for any Order
+2024-06-20 21:55:37,312 - INFO - Courier: 85 arrived for any Order
+2024-06-20 21:55:37,312 - INFO - Order picked up: 4b5793f3-2af5-4ac3-816a-7f9c6f91483c by Courier: 85
+2024-06-20 21:55:37,313 - INFO - Food wait time: 6329.236030578613 ms
+2024-06-20 21:55:37,313 - INFO - Courier wait time: 0.4470348358154297 ms
+2024-06-20 21:55:37,609 - INFO - Order received: 7f2381be-5ab9-4385-a7a2-4a940a22e134 - Chicken, Prep Time: 14s
+2024-06-20 21:55:37,615 - INFO - Courier: 94 dispatched for any Order
+2024-06-20 21:55:37,654 - INFO - Courier: 76 arrived for any Order
+2024-06-20 21:55:37,655 - INFO - Order picked up: 160ccc3a-af83-43e0-af0b-6a889aea7339 by Courier: 76
+2024-06-20 21:55:37,655 - INFO - Food wait time: 5167.194128036499 ms
+2024-06-20 21:55:37,655 - INFO - Courier wait time: 0.6809234619140625 ms
+2024-06-20 21:55:37,775 - INFO - Courier: 77 arrived for any Order
+2024-06-20 21:55:37,775 - INFO - Order picked up: 20343dea-8856-4717-9be9-be1b37d4791f by Courier: 77
+2024-06-20 21:55:37,775 - INFO - Food wait time: 12907.697200775146 ms
+2024-06-20 21:55:37,775 - INFO - Courier wait time: 0.48995018005371094 ms
+2024-06-20 21:55:38,018 - INFO - Courier: 87 arrived for any Order
+2024-06-20 21:55:38,018 - INFO - Order picked up: 3b9da9f3-2465-4fbc-84c5-5ecb9bd132b1 by Courier: 87
+2024-06-20 21:55:38,018 - INFO - Food wait time: 1029.8306941986084 ms
+2024-06-20 21:55:38,019 - INFO - Courier wait time: 0.4439353942871094 ms
+2024-06-20 21:55:38,030 - INFO - Order prepared: 46a4e47d-ccc1-4c88-a006-83930521899c - Pad See Ew
+2024-06-20 21:55:38,067 - INFO - Order prepared: 62e667ee-a86d-4be2-97f6-a6af60183e88 - Fresh Fruit
+2024-06-20 21:55:38,113 - INFO - Order received: 75bef98f-89ba-4359-b738-b3184688ca7a - Cookie Dough, Prep Time: 12s
+2024-06-20 21:55:38,121 - INFO - Courier: 95 dispatched for any Order
+2024-06-20 21:55:38,496 - INFO - Courier: 70 arrived for any Order
+2024-06-20 21:55:38,498 - INFO - Order picked up: e6b72c73-fa53-4f2c-a004-0b60ba7b3be9 by Courier: 70
+2024-06-20 21:55:38,498 - INFO - Food wait time: 4998.344898223877 ms
+2024-06-20 21:55:38,498 - INFO - Courier wait time: 1.4531612396240234 ms
+2024-06-20 21:55:38,547 - INFO - Order prepared: 42951124-c574-45a0-bddf-25e702c65914 - Cheese
+2024-06-20 21:55:38,616 - INFO - Order received: 60db864b-8270-43ef-9d91-985707390765 - Hamburger, Prep Time: 13s
+2024-06-20 21:55:38,625 - INFO - Courier: 96 dispatched for any Order
+2024-06-20 21:55:39,020 - INFO - Order prepared: 2c772706-189c-4ec4-80ad-06ea17f21f11 - Coke
+2024-06-20 21:55:39,100 - INFO - Order prepared: 1b9a920d-2880-44a3-abba-20903f2690d6 - Pastrami Sandwich
+2024-06-20 21:55:39,122 - INFO - Order received: 22f532ca-dfc8-448a-9e04-7dcfa01a175e - French Fries, Prep Time: 9s
+2024-06-20 21:55:39,129 - INFO - Courier: 97 dispatched for any Order
+2024-06-20 21:55:39,276 - INFO - Courier: 71 arrived for any Order
+2024-06-20 21:55:39,276 - INFO - Order picked up: 4546646c-3ca5-4da6-9c60-312a897a6907 by Courier: 71
+2024-06-20 21:55:39,276 - INFO - Food wait time: 6271.587133407593 ms
+2024-06-20 21:55:39,276 - INFO - Courier wait time: 0.43582916259765625 ms
+2024-06-20 21:55:39,628 - INFO - Order received: a0d76390-3e71-440e-a742-20c36a67fa9a - Ice, Prep Time: 10s
+2024-06-20 21:55:39,636 - INFO - Courier: 98 dispatched for any Order
+2024-06-20 21:55:40,126 - INFO - Courier: 92 arrived for any Order
+2024-06-20 21:55:40,127 - INFO - Order picked up: 8ea031b3-6545-4140-9dee-745268d7b877 by Courier: 92
+2024-06-20 21:55:40,127 - INFO - Food wait time: 5616.270065307617 ms
+2024-06-20 21:55:40,127 - INFO - Courier wait time: 0.5898475646972656 ms
+2024-06-20 21:55:40,131 - INFO - Order received: 020ad68f-da34-4eca-ae7e-3b67e80a299c - Carne Asada, Prep Time: 8s
+2024-06-20 21:55:40,142 - INFO - Courier: 99 dispatched for any Order
+2024-06-20 21:55:40,590 - INFO - Order prepared: 8d6a4d1a-ca56-4567-b3aa-a1e3d20f8017 - Orange Chicken
+2024-06-20 21:55:40,634 - INFO - Order received: 2aab593e-1d1d-4a65-a582-2999f80c3dee - Sherbet, Prep Time: 3s
+2024-06-20 21:55:40,646 - INFO - Courier: 100 dispatched for any Order
+2024-06-20 21:55:40,810 - INFO - Courier: 83 arrived for any Order
+2024-06-20 21:55:40,811 - INFO - Order picked up: 24f3e17b-eba0-409a-8630-463cb05d89c3 by Courier: 83
+2024-06-20 21:55:40,811 - INFO - Food wait time: 11801.681280136108 ms
+2024-06-20 21:55:40,811 - INFO - Courier wait time: 0.3077983856201172 ms
+2024-06-20 21:55:41,060 - INFO - Order prepared: 58dbdb26-670c-4dac-b72c-21152f5d62e7 - Pork Chop
+2024-06-20 21:55:41,139 - INFO - Order received: 3447acdb-475a-400c-91e0-9724d2043e27 - Orange Sorbet, Prep Time: 14s
+2024-06-20 21:55:41,150 - INFO - Courier: 101 dispatched for any Order
+2024-06-20 21:55:41,343 - INFO - Courier: 78 arrived for any Order
+2024-06-20 21:55:41,343 - INFO - Order picked up: a2b13869-6b7e-4e35-8e11-fa9889d24073 by Courier: 78
+2024-06-20 21:55:41,343 - INFO - Food wait time: 12949.195861816406 ms
+2024-06-20 21:55:41,343 - INFO - Courier wait time: 0.29015541076660156 ms
+2024-06-20 21:55:41,576 - INFO - Order prepared: df4e3e19-55d2-4131-8ab0-3563b44f8291 - Cranberry Salad
+2024-06-20 21:55:41,641 - INFO - Order received: f6e68da8-9909-431e-bf1b-88367677a03e - Frosty, Prep Time: 10s
+2024-06-20 21:55:41,656 - INFO - Courier: 102 dispatched for any Order
+2024-06-20 21:55:42,089 - INFO - Order prepared: fb850bd3-728f-4118-a097-2bcf3a12c239 - Vegan Pizza
+2024-06-20 21:55:42,146 - INFO - Order received: bcd22756-b3ac-473b-93fa-a19cf941bc40 - Fresh Bread, Prep Time: 5s
+2024-06-20 21:55:42,158 - INFO - Courier: 103 dispatched for any Order
+2024-06-20 21:55:42,326 - INFO - Courier: 82 arrived for any Order
+2024-06-20 21:55:42,327 - INFO - Order picked up: def3f65e-6ffb-4715-8561-ace9d312ddc5 by Courier: 82
+2024-06-20 21:55:42,327 - INFO - Food wait time: 12812.798976898193 ms
+2024-06-20 21:55:42,327 - INFO - Courier wait time: 0.5979537963867188 ms
+2024-06-20 21:55:42,522 - INFO - Order prepared: a0023411-c19d-4723-b6d1-6b8c8ff1b417 - Snow Cone
+2024-06-20 21:55:42,651 - INFO - Order received: 506a5c01-b06b-4af8-a1f2-913f9ae01078 - Burrito, Prep Time: 9s
+2024-06-20 21:55:42,660 - INFO - Courier: 104 dispatched for any Order
+2024-06-20 21:55:42,751 - INFO - Courier: 93 arrived for any Order
+2024-06-20 21:55:42,751 - INFO - Order picked up: 2c772706-189c-4ec4-80ad-06ea17f21f11 by Courier: 93
+2024-06-20 21:55:42,751 - INFO - Food wait time: 3730.958938598633 ms
+2024-06-20 21:55:42,751 - INFO - Courier wait time: 0.47016143798828125 ms
+2024-06-20 21:55:42,831 - INFO - Courier: 97 arrived for any Order
+2024-06-20 21:55:42,831 - INFO - Order picked up: a0023411-c19d-4723-b6d1-6b8c8ff1b417 by Courier: 97
+2024-06-20 21:55:42,831 - INFO - Food wait time: 308.40086936950684 ms
+2024-06-20 21:55:42,831 - INFO - Courier wait time: 0.37288665771484375 ms
+2024-06-20 21:55:43,156 - INFO - Order received: 10ea72c1-b538-4eb8-b260-f58775481a0b - Icy, Prep Time: 9s
+2024-06-20 21:55:43,166 - INFO - Courier: 105 dispatched for any Order
+2024-06-20 21:55:43,556 - INFO - Order prepared: 5bb755b9-e6a8-4932-9139-bc04fafbc240 - Beef Hash
+2024-06-20 21:55:43,586 - INFO - Order prepared: 48465fc7-d534-4b9b-b919-63e5beebd301 - Mint Chocolate Ice Cream
+2024-06-20 21:55:43,638 - INFO - Order prepared: 2aab593e-1d1d-4a65-a582-2999f80c3dee - Sherbet
+2024-06-20 21:55:43,650 - INFO - Courier: 98 arrived for any Order
+2024-06-20 21:55:43,650 - INFO - Order picked up: 46a4e47d-ccc1-4c88-a006-83930521899c by Courier: 98
+2024-06-20 21:55:43,650 - INFO - Food wait time: 5619.416236877441 ms
+2024-06-20 21:55:43,650 - INFO - Courier wait time: 0.4467964172363281 ms
+2024-06-20 21:55:43,662 - INFO - Order received: 5e9cb832-6a0a-49fa-8799-8d744b499fce - Push Pop, Prep Time: 7s
+2024-06-20 21:55:43,670 - INFO - Courier: 106 dispatched for any Order
+2024-06-20 21:55:44,167 - INFO - Order received: a7d778ff-9711-4d3c-b370-6052965f64c0 - Pasta, Prep Time: 7s
+2024-06-20 21:55:44,176 - INFO - Courier: 107 dispatched for any Order
+2024-06-20 21:55:44,673 - INFO - Order received: 40990373-5eac-4e15-9634-450886fe3374 - Chicken Nuggets, Prep Time: 10s
+2024-06-20 21:55:44,681 - INFO - Courier: 108 dispatched for any Order
+2024-06-20 21:55:45,049 - INFO - Order prepared: df726ab4-a999-46b5-8e31-4a1bd523fcb9 - Spinach Omelet
+2024-06-20 21:55:45,094 - INFO - Order prepared: 68e83bf6-bdee-4192-8905-40140b421bc6 - MeatLoaf
+2024-06-20 21:55:45,142 - INFO - Courier: 84 arrived for any Order
+2024-06-20 21:55:45,143 - INFO - Order picked up: e65ef8c8-d9e2-47cf-a6e2-ac976bcfdb9d by Courier: 84
+2024-06-20 21:55:45,143 - INFO - Food wait time: 8603.46508026123 ms
+2024-06-20 21:55:45,143 - INFO - Courier wait time: 0.6437301635742188 ms
+2024-06-20 21:55:45,176 - INFO - Order received: 3ea0971e-2478-4545-b814-a857fb294a9d - Ice Cream Sandwich, Prep Time: 11s
+2024-06-20 21:55:45,185 - INFO - Courier: 109 dispatched for any Order
+2024-06-20 21:55:45,394 - INFO - Courier: 101 arrived for any Order
+2024-06-20 21:55:45,394 - INFO - Order picked up: 848dfc63-eab6-48b7-a2db-04d13190ce8c by Courier: 101
+2024-06-20 21:55:45,394 - INFO - Food wait time: 11352.607011795044 ms
+2024-06-20 21:55:45,394 - INFO - Courier wait time: 0.61798095703125 ms
+2024-06-20 21:55:45,565 - INFO - Order prepared: 4ed428d6-f247-451a-aebf-c5157b2eb502 - Kale Salad
+2024-06-20 21:55:45,680 - INFO - Order received: 33bcf189-ba71-48ab-a2d5-75c18d180269 - Taco, Prep Time: 10s
+2024-06-20 21:55:45,687 - INFO - Courier: 110 dispatched for any Order
+2024-06-20 21:55:45,730 - INFO - Courier: 96 arrived for any Order
+2024-06-20 21:55:45,731 - INFO - Order picked up: 42951124-c574-45a0-bddf-25e702c65914 by Courier: 96
+2024-06-20 21:55:45,731 - INFO - Food wait time: 7183.263063430786 ms
+2024-06-20 21:55:45,731 - INFO - Courier wait time: 0.38886070251464844 ms
+2024-06-20 21:55:45,874 - INFO - Courier: 95 arrived for any Order
+2024-06-20 21:55:45,874 - INFO - Order picked up: df726ab4-a999-46b5-8e31-4a1bd523fcb9 by Courier: 95
+2024-06-20 21:55:45,875 - INFO - Food wait time: 824.6626853942871 ms
+2024-06-20 21:55:45,875 - INFO - Courier wait time: 0.5712509155273438 ms
+2024-06-20 21:55:46,078 - INFO - Courier: 89 arrived for any Order
+2024-06-20 21:55:46,078 - INFO - Order picked up: 5bb755b9-e6a8-4932-9139-bc04fafbc240 by Courier: 89
+2024-06-20 21:55:46,078 - INFO - Food wait time: 2521.362066268921 ms
+2024-06-20 21:55:46,078 - INFO - Courier wait time: 0.4189014434814453 ms
+2024-06-20 21:55:46,185 - INFO - Order received: 22fc8ae6-74f7-467f-8735-774d579a2ae0 - Tomato Soup, Prep Time: 8s
+2024-06-20 21:55:46,192 - INFO - Courier: 111 dispatched for any Order
+2024-06-20 21:55:46,505 - INFO - Courier: 86 arrived for any Order
+2024-06-20 21:55:46,506 - INFO - Order picked up: 1fab9088-d99d-47ee-acf5-d0f0851738e4 by Courier: 86
+2024-06-20 21:55:46,506 - INFO - Food wait time: 15579.370975494385 ms
+2024-06-20 21:55:46,506 - INFO - Courier wait time: 0.5230903625488281 ms
+2024-06-20 21:55:46,526 - INFO - Courier: 88 arrived for any Order
+2024-06-20 21:55:46,527 - INFO - Order picked up: 58dbdb26-670c-4dac-b72c-21152f5d62e7 by Courier: 88
+2024-06-20 21:55:46,527 - INFO - Food wait time: 5466.402769088745 ms
+2024-06-20 21:55:46,527 - INFO - Courier wait time: 0.5249977111816406 ms
+2024-06-20 21:55:46,565 - INFO - Courier: 91 arrived for any Order
+2024-06-20 21:55:46,565 - INFO - Order picked up: 4ed428d6-f247-451a-aebf-c5157b2eb502 by Courier: 91
+2024-06-20 21:55:46,565 - INFO - Food wait time: 999.6747970581055 ms
+2024-06-20 21:55:46,565 - INFO - Courier wait time: 0.30612945556640625 ms
+2024-06-20 21:55:46,691 - INFO - Order received: 19de820c-4691-420c-ad67-95ec7f5abc2d - Vanilla Ice Cream, Prep Time: 3s
+2024-06-20 21:55:46,697 - INFO - Courier: 112 dispatched for any Order
+2024-06-20 21:55:47,148 - INFO - Order prepared: bcd22756-b3ac-473b-93fa-a19cf941bc40 - Fresh Bread
+2024-06-20 21:55:47,195 - INFO - Order received: 3b62609c-38f2-499e-a9b1-c3604dad425d - Poppers, Prep Time: 5s
+2024-06-20 21:55:47,201 - INFO - Courier: 113 dispatched for any Order
+2024-06-20 21:55:47,698 - INFO - Order received: df79a7e4-d3f9-450c-b2e3-316fb462db29 - Popsicle, Prep Time: 5s
+2024-06-20 21:55:47,704 - INFO - Courier: 114 dispatched for any Order
+2024-06-20 21:55:48,082 - INFO - Order prepared: 44e6ea89-f11c-414d-aa72-7c10641eff8d - Fudge Ice Cream Cake
+2024-06-20 21:55:48,124 - INFO - Order prepared: 22f532ca-dfc8-448a-9e04-7dcfa01a175e - French Fries
+2024-06-20 21:55:48,135 - INFO - Order prepared: 020ad68f-da34-4eca-ae7e-3b67e80a299c - Carne Asada
+2024-06-20 21:55:48,160 - INFO - Courier: 94 arrived for any Order
+2024-06-20 21:55:48,160 - INFO - Order picked up: 62e667ee-a86d-4be2-97f6-a6af60183e88 by Courier: 94
+2024-06-20 21:55:48,160 - INFO - Food wait time: 10092.28491783142 ms
+2024-06-20 21:55:48,160 - INFO - Courier wait time: 0.4818439483642578 ms
+2024-06-20 21:55:48,174 - INFO - Courier: 105 arrived for any Order
+2024-06-20 21:55:48,175 - INFO - Order picked up: df4e3e19-55d2-4131-8ab0-3563b44f8291 by Courier: 105
+2024-06-20 21:55:48,175 - INFO - Food wait time: 6598.339080810547 ms
+2024-06-20 21:55:48,175 - INFO - Courier wait time: 0.5488395690917969 ms
+2024-06-20 21:55:48,203 - INFO - Order received: d5fbbee2-09a7-459e-9621-33a66cdbf3ab - Strawberries, Prep Time: 10s
+2024-06-20 21:55:48,208 - INFO - Courier: 115 dispatched for any Order
+2024-06-20 21:55:48,709 - INFO - Order received: 69ad8b1c-3218-4c41-aa42-5aca43ca4173 - Brown Rice, Prep Time: 14s
+2024-06-20 21:55:48,714 - INFO - Courier: 116 dispatched for any Order
+2024-06-20 21:55:48,763 - INFO - Courier: 99 arrived for any Order
+2024-06-20 21:55:48,764 - INFO - Order picked up: 44e6ea89-f11c-414d-aa72-7c10641eff8d by Courier: 99
+2024-06-20 21:55:48,764 - INFO - Food wait time: 681.1661720275879 ms
+2024-06-20 21:55:48,764 - INFO - Courier wait time: 0.5590915679931641 ms
+2024-06-20 21:55:48,801 - INFO - Courier: 90 arrived for any Order
+2024-06-20 21:55:48,801 - INFO - Order picked up: 48465fc7-d534-4b9b-b919-63e5beebd301 by Courier: 90
+2024-06-20 21:55:48,801 - INFO - Food wait time: 5215.222597122192 ms
+2024-06-20 21:55:48,801 - INFO - Courier wait time: 0.3132820129394531 ms
+2024-06-20 21:55:49,215 - INFO - Order received: 68037649-56cd-4f0f-90fd-6e6ccbf61b37 - Cheese Pizza, Prep Time: 13s
+2024-06-20 21:55:49,219 - INFO - Courier: 117 dispatched for any Order
+2024-06-20 21:55:49,607 - INFO - Order prepared: c5ec5a4b-818e-4478-8956-019259be4168 - Arugula
+2024-06-20 21:55:49,633 - INFO - Order prepared: a0d76390-3e71-440e-a742-20c36a67fa9a - Ice
+2024-06-20 21:55:49,697 - INFO - Order prepared: 19de820c-4691-420c-ad67-95ec7f5abc2d - Vanilla Ice Cream
+2024-06-20 21:55:49,719 - INFO - Courier: 118 dispatched for any Order
+2024-06-20 21:55:49,721 - INFO - Order received: 5bd1e697-10b2-48cf-83c4-033eea97bfb2 - Pressed Juice, Prep Time: 13s
+2024-06-20 21:55:50,109 - INFO - Order prepared: 4c25f887-03cc-4dcd-9945-6a8102c5ef22 - Pickles
+2024-06-20 21:55:50,118 - INFO - Order prepared: 75bef98f-89ba-4359-b738-b3184688ca7a - Cookie Dough
+2024-06-20 21:55:50,225 - INFO - Courier: 119 dispatched for any Order
+2024-06-20 21:55:50,226 - INFO - Order received: 228ec414-19ca-41e4-8d6c-bd2b0662bfa3 - Coconut, Prep Time: 13s
+2024-06-20 21:55:50,479 - INFO - Courier: 103 arrived for any Order
+2024-06-20 21:55:50,479 - INFO - Order picked up: fb850bd3-728f-4118-a097-2bcf3a12c239 by Courier: 103
+2024-06-20 21:55:50,479 - INFO - Food wait time: 8389.662981033325 ms
+2024-06-20 21:55:50,480 - INFO - Courier wait time: 0.39696693420410156 ms
+2024-06-20 21:55:50,596 - INFO - Order prepared: 0d74c9f0-4fd5-4606-a1dc-019d9ab52af6 - Milk
+2024-06-20 21:55:50,668 - INFO - Order prepared: 5e9cb832-6a0a-49fa-8799-8d744b499fce - Push Pop
+2024-06-20 21:55:50,728 - INFO - Order received: b1315bfb-4528-4ae2-b6ed-adb03a25b94a - Onion Rings, Prep Time: 6s
+2024-06-20 21:55:50,731 - INFO - Courier: 120 dispatched for any Order
+2024-06-20 21:55:50,869 - INFO - Courier: 104 arrived for any Order
+2024-06-20 21:55:50,869 - INFO - Order picked up: 8d6a4d1a-ca56-4567-b3aa-a1e3d20f8017 by Courier: 104
+2024-06-20 21:55:50,869 - INFO - Food wait time: 10278.84292602539 ms
+2024-06-20 21:55:50,870 - INFO - Courier wait time: 0.35309791564941406 ms
+2024-06-20 21:55:50,873 - INFO - Courier: 107 arrived for any Order
+2024-06-20 21:55:50,874 - INFO - Order picked up: 68e83bf6-bdee-4192-8905-40140b421bc6 by Courier: 107
+2024-06-20 21:55:50,874 - INFO - Food wait time: 5779.505968093872 ms
+2024-06-20 21:55:50,874 - INFO - Courier wait time: 0.31185150146484375 ms
+2024-06-20 21:55:51,172 - INFO - Order prepared: a7d778ff-9711-4d3c-b370-6052965f64c0 - Pasta
+2024-06-20 21:55:51,233 - INFO - Order received: eafcb22b-0f68-4773-80ba-f163b191578f - Fish Tacos, Prep Time: 13s
+2024-06-20 21:55:51,237 - INFO - Courier: 121 dispatched for any Order
+2024-06-20 21:55:51,614 - INFO - Order prepared: 7f2381be-5ab9-4385-a7a2-4a940a22e134 - Chicken
+2024-06-20 21:55:51,622 - INFO - Order prepared: 60db864b-8270-43ef-9d91-985707390765 - Hamburger
+2024-06-20 21:55:51,647 - INFO - Order prepared: f6e68da8-9909-431e-bf1b-88367677a03e - Frosty
+2024-06-20 21:55:51,656 - INFO - Order prepared: 506a5c01-b06b-4af8-a1f2-913f9ae01078 - Burrito
+2024-06-20 21:55:51,738 - INFO - Courier: 122 dispatched for any Order
+2024-06-20 21:55:51,741 - INFO - Order received: b25914fa-c5b0-4aa6-a0f5-fcc76203bba5 - Pot Stickers, Prep Time: 11s
+2024-06-20 21:55:51,839 - INFO - Courier: 114 arrived for any Order
+2024-06-20 21:55:51,840 - INFO - Order picked up: 0d74c9f0-4fd5-4606-a1dc-019d9ab52af6 by Courier: 114
+2024-06-20 21:55:51,840 - INFO - Food wait time: 1243.032693862915 ms
+2024-06-20 21:55:51,840 - INFO - Courier wait time: 0.5424022674560547 ms
+2024-06-20 21:55:52,161 - INFO - Order prepared: 10ea72c1-b538-4eb8-b260-f58775481a0b - Icy
+2024-06-20 21:55:52,198 - INFO - Order prepared: 3b62609c-38f2-499e-a9b1-c3604dad425d - Poppers
+2024-06-20 21:55:52,243 - INFO - Courier: 123 dispatched for any Order
+2024-06-20 21:55:52,247 - INFO - Order received: 03267ca9-47fd-4d16-bba7-a650cc7660b6 - Kombucha, Prep Time: 4s
+2024-06-20 21:55:52,703 - INFO - Order prepared: df79a7e4-d3f9-450c-b2e3-316fb462db29 - Popsicle
+2024-06-20 21:55:52,749 - INFO - Courier: 124 dispatched for any Order
+2024-06-20 21:55:52,751 - INFO - Order received: 9012736d-777b-4f5b-a12d-982e302fefa1 - Mixed Greens, Prep Time: 3s
+2024-06-20 21:55:53,255 - INFO - Courier: 125 dispatched for any Order
+2024-06-20 21:55:53,257 - INFO - Order received: f21bf58b-e23b-491f-a285-d70cb21cc36f - Sushi, Prep Time: 3s
+2024-06-20 21:55:53,758 - INFO - Order received: 057bc043-5f22-4169-9711-c6e2488b35f7 - Apples, Prep Time: 12s
+2024-06-20 21:55:53,761 - INFO - Courier: 126 dispatched for any Order
+2024-06-20 21:55:53,789 - INFO - Courier: 119 arrived for any Order
+2024-06-20 21:55:53,790 - INFO - Order picked up: 1b9a920d-2880-44a3-abba-20903f2690d6 by Courier: 119
+2024-06-20 21:55:53,790 - INFO - Food wait time: 14688.555002212524 ms
+2024-06-20 21:55:53,790 - INFO - Courier wait time: 0.6380081176757812 ms
+2024-06-20 21:55:53,884 - INFO - Courier: 100 arrived for any Order
+2024-06-20 21:55:53,885 - INFO - Order picked up: c5ec5a4b-818e-4478-8956-019259be4168 by Courier: 100
+2024-06-20 21:55:53,885 - INFO - Food wait time: 4277.255058288574 ms
+2024-06-20 21:55:53,885 - INFO - Courier wait time: 0.36907196044921875 ms
+2024-06-20 21:55:54,191 - INFO - Order prepared: 22fc8ae6-74f7-467f-8735-774d579a2ae0 - Tomato Soup
+2024-06-20 21:55:54,263 - INFO - Order received: 7f682ade-8375-4ef4-aa9b-45440f361268 - Kebab, Prep Time: 6s
+2024-06-20 21:55:54,265 - INFO - Courier: 127 dispatched for any Order
+2024-06-20 21:55:54,476 - INFO - Courier: 102 arrived for any Order
+2024-06-20 21:55:54,476 - INFO - Order picked up: 4c25f887-03cc-4dcd-9945-6a8102c5ef22 by Courier: 102
+2024-06-20 21:55:54,476 - INFO - Food wait time: 4366.836071014404 ms
+2024-06-20 21:55:54,476 - INFO - Courier wait time: 0.45371055603027344 ms
+2024-06-20 21:55:54,574 - INFO - Courier: 113 arrived for any Order
+2024-06-20 21:55:54,574 - INFO - Order picked up: 7f2381be-5ab9-4385-a7a2-4a940a22e134 by Courier: 113
+2024-06-20 21:55:54,574 - INFO - Food wait time: 2959.0351581573486 ms
+2024-06-20 21:55:54,574 - INFO - Courier wait time: 0.6389617919921875 ms
+2024-06-20 21:55:54,652 - INFO - Courier: 115 arrived for any Order
+2024-06-20 21:55:54,653 - INFO - Order picked up: 75bef98f-89ba-4359-b738-b3184688ca7a by Courier: 115
+2024-06-20 21:55:54,653 - INFO - Food wait time: 4534.030914306641 ms
+2024-06-20 21:55:54,653 - INFO - Courier wait time: 0.7121562957763672 ms
+2024-06-20 21:55:54,676 - INFO - Order prepared: 40990373-5eac-4e15-9634-450886fe3374 - Chicken Nuggets
+2024-06-20 21:55:54,743 - INFO - Courier: 108 arrived for any Order
+2024-06-20 21:55:54,744 - INFO - Order picked up: 60db864b-8270-43ef-9d91-985707390765 by Courier: 108
+2024-06-20 21:55:54,744 - INFO - Food wait time: 3121.5429306030273 ms
+2024-06-20 21:55:54,744 - INFO - Courier wait time: 0.5350112915039062 ms
+2024-06-20 21:55:54,768 - INFO - Order received: 0d841704-92a0-44e1-aaf8-02a8ee920775 - Mac & Cheese, Prep Time: 4s
+2024-06-20 21:55:54,771 - INFO - Courier: 128 dispatched for any Order
+2024-06-20 21:55:55,108 - INFO - Courier: 110 arrived for any Order
+2024-06-20 21:55:55,109 - INFO - Order picked up: 22f532ca-dfc8-448a-9e04-7dcfa01a175e by Courier: 110
+2024-06-20 21:55:55,109 - INFO - Food wait time: 6984.4489097595215 ms
+2024-06-20 21:55:55,109 - INFO - Courier wait time: 0.576019287109375 ms
+2024-06-20 21:55:55,141 - INFO - Order prepared: 3447acdb-475a-400c-91e0-9724d2043e27 - Orange Sorbet
+2024-06-20 21:55:55,227 - INFO - Courier: 112 arrived for any Order
+2024-06-20 21:55:55,227 - INFO - Order picked up: a0d76390-3e71-440e-a742-20c36a67fa9a by Courier: 112
+2024-06-20 21:55:55,227 - INFO - Food wait time: 5593.839168548584 ms
+2024-06-20 21:55:55,228 - INFO - Courier wait time: 0.6258487701416016 ms
+2024-06-20 21:55:55,274 - INFO - Order received: 7f89b973-d4fd-4d6e-a279-afc2db6b3304 - Corn Dog, Prep Time: 11s
+2024-06-20 21:55:55,275 - INFO - Courier: 129 dispatched for any Order
+2024-06-20 21:55:55,623 - INFO - Courier: 111 arrived for any Order
+2024-06-20 21:55:55,623 - INFO - Order picked up: 020ad68f-da34-4eca-ae7e-3b67e80a299c by Courier: 111
+2024-06-20 21:55:55,623 - INFO - Food wait time: 7488.129615783691 ms
+2024-06-20 21:55:55,623 - INFO - Courier wait time: 0.553131103515625 ms
+2024-06-20 21:55:55,683 - INFO - Order prepared: 33bcf189-ba71-48ab-a2d5-75c18d180269 - Taco
+2024-06-20 21:55:55,757 - INFO - Order prepared: 9012736d-777b-4f5b-a12d-982e302fefa1 - Mixed Greens
+2024-06-20 21:55:55,777 - INFO - Courier: 130 dispatched for any Order
+2024-06-20 21:55:55,778 - INFO - Order received: 2a23c77f-3ee3-4a52-8810-93e73df4e887 - Grilled Corn Salad, Prep Time: 7s
+2024-06-20 21:55:56,182 - INFO - Order prepared: 3ea0971e-2478-4545-b814-a857fb294a9d - Ice Cream Sandwich
+2024-06-20 21:55:56,251 - INFO - Order prepared: 03267ca9-47fd-4d16-bba7-a650cc7660b6 - Kombucha
+2024-06-20 21:55:56,262 - INFO - Order prepared: f21bf58b-e23b-491f-a285-d70cb21cc36f - Sushi
+2024-06-20 21:55:56,283 - INFO - Courier: 131 dispatched for any Order
+2024-06-20 21:55:56,284 - INFO - Order received: 4f304b59-6634-4558-a128-a8ce12b1f818 - Pistachio Ice Cream, Prep Time: 3s
+2024-06-20 21:55:56,734 - INFO - Order prepared: b1315bfb-4528-4ae2-b6ed-adb03a25b94a - Onion Rings
+2024-06-20 21:55:57,359 - INFO - Courier: 106 arrived for any Order
+2024-06-20 21:55:57,359 - INFO - Order picked up: 2aab593e-1d1d-4a65-a582-2999f80c3dee by Courier: 106
+2024-06-20 21:55:57,359 - INFO - Food wait time: 13720.496892929077 ms
+2024-06-20 21:55:57,359 - INFO - Courier wait time: 0.5519390106201172 ms
+2024-06-20 21:55:57,930 - INFO - Courier: 116 arrived for any Order
+2024-06-20 21:55:57,931 - INFO - Order picked up: 3447acdb-475a-400c-91e0-9724d2043e27 by Courier: 116
+2024-06-20 21:55:57,931 - INFO - Food wait time: 2789.715051651001 ms
+2024-06-20 21:55:57,931 - INFO - Courier wait time: 0.3368854522705078 ms
+2024-06-20 21:55:58,209 - INFO - Order prepared: d5fbbee2-09a7-459e-9621-33a66cdbf3ab - Strawberries
+2024-06-20 21:55:58,774 - INFO - Order prepared: 0d841704-92a0-44e1-aaf8-02a8ee920775 - Mac & Cheese
+2024-06-20 21:55:58,960 - INFO - Courier: 117 arrived for any Order
+2024-06-20 21:55:58,960 - INFO - Order picked up: f6e68da8-9909-431e-bf1b-88367677a03e by Courier: 117
+2024-06-20 21:55:58,960 - INFO - Food wait time: 7312.924861907959 ms
+2024-06-20 21:55:58,960 - INFO - Courier wait time: 0.5350112915039062 ms
+2024-06-20 21:55:59,288 - INFO - Order prepared: 4f304b59-6634-4558-a128-a8ce12b1f818 - Pistachio Ice Cream
+2024-06-20 21:55:59,599 - INFO - Courier: 129 arrived for any Order
+2024-06-20 21:55:59,599 - INFO - Order picked up: bcd22756-b3ac-473b-93fa-a19cf941bc40 by Courier: 129
+2024-06-20 21:55:59,599 - INFO - Food wait time: 12450.811862945557 ms
+2024-06-20 21:55:59,599 - INFO - Courier wait time: 0.18095970153808594 ms
+2024-06-20 21:56:00,068 - INFO - Courier: 109 arrived for any Order
+2024-06-20 21:56:00,069 - INFO - Order picked up: 506a5c01-b06b-4af8-a1f2-913f9ae01078 by Courier: 109
+2024-06-20 21:56:00,069 - INFO - Food wait time: 8412.271738052368 ms
+2024-06-20 21:56:00,069 - INFO - Courier wait time: 1.0082721710205078 ms
+2024-06-20 21:56:00,269 - INFO - Order prepared: 7f682ade-8375-4ef4-aa9b-45440f361268 - Kebab
+2024-06-20 21:56:01,434 - INFO - Courier: 118 arrived for any Order
+2024-06-20 21:56:01,434 - INFO - Order picked up: 10ea72c1-b538-4eb8-b260-f58775481a0b by Courier: 118
+2024-06-20 21:56:01,434 - INFO - Food wait time: 9273.402214050293 ms
+2024-06-20 21:56:01,435 - INFO - Courier wait time: 0.2799034118652344 ms
+2024-06-20 21:56:02,219 - INFO - Order prepared: 68037649-56cd-4f0f-90fd-6e6ccbf61b37 - Cheese Pizza
+2024-06-20 21:56:02,715 - INFO - Order prepared: 69ad8b1c-3218-4c41-aa42-5aca43ca4173 - Brown Rice
+2024-06-20 21:56:02,722 - INFO - Order prepared: 5bd1e697-10b2-48cf-83c4-033eea97bfb2 - Pressed Juice
+2024-06-20 21:56:02,743 - INFO - Order prepared: b25914fa-c5b0-4aa6-a0f5-fcc76203bba5 - Pot Stickers
+2024-06-20 21:56:02,783 - INFO - Order prepared: 2a23c77f-3ee3-4a52-8810-93e73df4e887 - Grilled Corn Salad
+2024-06-20 21:56:02,836 - INFO - Courier: 125 arrived for any Order
+2024-06-20 21:56:02,836 - INFO - Order picked up: 5e9cb832-6a0a-49fa-8799-8d744b499fce by Courier: 125
+2024-06-20 21:56:02,836 - INFO - Food wait time: 12167.971849441528 ms
+2024-06-20 21:56:02,836 - INFO - Courier wait time: 0.18715858459472656 ms
+2024-06-20 21:56:03,228 - INFO - Order prepared: 228ec414-19ca-41e4-8d6c-bd2b0662bfa3 - Coconut
+2024-06-20 21:56:03,929 - INFO - Courier: 123 arrived for any Order
+2024-06-20 21:56:03,930 - INFO - Order picked up: a7d778ff-9711-4d3c-b370-6052965f64c0 by Courier: 123
+2024-06-20 21:56:03,930 - INFO - Food wait time: 12756.722927093506 ms
+2024-06-20 21:56:03,930 - INFO - Courier wait time: 0.9210109710693359 ms
+2024-06-20 21:56:04,080 - INFO - Courier: 121 arrived for any Order
+2024-06-20 21:56:04,080 - INFO - Order picked up: 40990373-5eac-4e15-9634-450886fe3374 by Courier: 121
+2024-06-20 21:56:04,080 - INFO - Food wait time: 9404.036045074463 ms
+2024-06-20 21:56:04,080 - INFO - Courier wait time: 0.26988983154296875 ms
+2024-06-20 21:56:04,210 - INFO - Courier: 127 arrived for any Order
+2024-06-20 21:56:04,210 - INFO - Order picked up: 3ea0971e-2478-4545-b814-a857fb294a9d by Courier: 127
+2024-06-20 21:56:04,210 - INFO - Food wait time: 8028.030157089233 ms
+2024-06-20 21:56:04,210 - INFO - Courier wait time: 0.2758502960205078 ms
+2024-06-20 21:56:04,241 - INFO - Order prepared: eafcb22b-0f68-4773-80ba-f163b191578f - Fish Tacos
+2024-06-20 21:56:04,643 - INFO - Courier: 120 arrived for any Order
+2024-06-20 21:56:04,644 - INFO - Order picked up: 33bcf189-ba71-48ab-a2d5-75c18d180269 by Courier: 120
+2024-06-20 21:56:04,644 - INFO - Food wait time: 8960.20221710205 ms
+2024-06-20 21:56:04,644 - INFO - Courier wait time: 0.6189346313476562 ms
+2024-06-20 21:56:05,760 - INFO - Order prepared: 057bc043-5f22-4169-9711-c6e2488b35f7 - Apples
+2024-06-20 21:56:05,903 - INFO - Courier: 128 arrived for any Order
+2024-06-20 21:56:05,904 - INFO - Order picked up: 22fc8ae6-74f7-467f-8735-774d579a2ae0 by Courier: 128
+2024-06-20 21:56:05,904 - INFO - Food wait time: 11712.213039398193 ms
+2024-06-20 21:56:05,904 - INFO - Courier wait time: 0.7128715515136719 ms
+2024-06-20 21:56:05,949 - INFO - Courier: 122 arrived for any Order
+2024-06-20 21:56:05,949 - INFO - Order picked up: 19de820c-4691-420c-ad67-95ec7f5abc2d by Courier: 122
+2024-06-20 21:56:05,949 - INFO - Food wait time: 16252.015113830566 ms
+2024-06-20 21:56:05,949 - INFO - Courier wait time: 0.31876564025878906 ms
+2024-06-20 21:56:06,278 - INFO - Order prepared: 7f89b973-d4fd-4d6e-a279-afc2db6b3304 - Corn Dog
+2024-06-20 21:56:06,940 - INFO - Courier: 126 arrived for any Order
+2024-06-20 21:56:06,940 - INFO - Order picked up: 3b62609c-38f2-499e-a9b1-c3604dad425d by Courier: 126
+2024-06-20 21:56:06,941 - INFO - Food wait time: 14742.078065872192 ms
+2024-06-20 21:56:06,941 - INFO - Courier wait time: 0.8027553558349609 ms
+2024-06-20 21:56:07,483 - INFO - Courier: 124 arrived for any Order
+2024-06-20 21:56:07,483 - INFO - Order picked up: df79a7e4-d3f9-450c-b2e3-316fb462db29 by Courier: 124
+2024-06-20 21:56:07,483 - INFO - Food wait time: 14779.349565505981 ms
+2024-06-20 21:56:07,483 - INFO - Courier wait time: 0.3781318664550781 ms
+2024-06-20 21:56:08,652 - INFO - Courier: 131 arrived for any Order
+2024-06-20 21:56:08,653 - INFO - Order picked up: d5fbbee2-09a7-459e-9621-33a66cdbf3ab by Courier: 131
+2024-06-20 21:56:08,653 - INFO - Food wait time: 10443.528890609741 ms
+2024-06-20 21:56:08,653 - INFO - Courier wait time: 0.5869865417480469 ms
+2024-06-20 21:56:10,297 - INFO - Courier: 130 arrived for any Order
+2024-06-20 21:56:10,298 - INFO - Order picked up: 69ad8b1c-3218-4c41-aa42-5aca43ca4173 by Courier: 130
+2024-06-20 21:56:10,298 - INFO - Food wait time: 7582.26203918457 ms
+2024-06-20 21:56:10,298 - INFO - Courier wait time: 0.6208419799804688 ms
+2024-06-20 21:56:10,298 - INFO - Order picked up: 68037649-56cd-4f0f-90fd-6e6ccbf61b37 by Courier: 3
+2024-06-20 21:56:10,298 - INFO - Food wait time: 63281.19111061096 ms
+2024-06-20 21:56:10,299 - INFO - Courier wait time: 71360.24308204651 ms
+2024-06-20 21:56:10,299 - INFO - Order picked up: 5bd1e697-10b2-48cf-83c4-033eea97bfb2 by Courier: 5
+2024-06-20 21:56:10,299 - INFO - Food wait time: 62143.88298988342 ms
+2024-06-20 21:56:10,299 - INFO - Courier wait time: 69720.98994255066 ms
+2024-06-20 21:56:10,299 - INFO - Order picked up: 228ec414-19ca-41e4-8d6c-bd2b0662bfa3 by Courier: 14
+2024-06-20 21:56:10,299 - INFO - Food wait time: 59846.27604484558 ms
+2024-06-20 21:56:10,299 - INFO - Courier wait time: 66917.46091842651 ms
+2024-06-20 21:56:10,300 - INFO - Order picked up: b1315bfb-4528-4ae2-b6ed-adb03a25b94a by Courier: 1
+2024-06-20 21:56:10,300 - INFO - Food wait time: 53215.9161567688 ms
+2024-06-20 21:56:10,300 - INFO - Courier wait time: 66781.80932998657 ms
+2024-06-20 21:56:10,300 - INFO - Order picked up: eafcb22b-0f68-4773-80ba-f163b191578f by Courier: 7
+2024-06-20 21:56:10,300 - INFO - Food wait time: 59184.345960617065 ms
+2024-06-20 21:56:10,300 - INFO - Courier wait time: 65243.074893951416 ms
+2024-06-20 21:56:10,300 - INFO - Order picked up: b25914fa-c5b0-4aa6-a0f5-fcc76203bba5 by Courier: 4
+2024-06-20 21:56:10,300 - INFO - Food wait time: 57494.74906921387 ms
+2024-06-20 21:56:10,300 - INFO - Courier wait time: 65051.72419548035 ms
+2024-06-20 21:56:10,301 - INFO - Order picked up: 03267ca9-47fd-4d16-bba7-a650cc7660b6 by Courier: 12
+2024-06-20 21:56:10,301 - INFO - Food wait time: 48243.91984939575 ms
+2024-06-20 21:56:10,301 - INFO - Courier wait time: 62293.298959732056 ms
+2024-06-20 21:56:10,301 - INFO - Order picked up: 9012736d-777b-4f5b-a12d-982e302fefa1 by Courier: 20
+2024-06-20 21:56:10,301 - INFO - Food wait time: 47115.2708530426 ms
+2024-06-20 21:56:10,301 - INFO - Courier wait time: 61659.70301628113 ms
+2024-06-20 21:56:10,301 - INFO - Order picked up: f21bf58b-e23b-491f-a285-d70cb21cc36f by Courier: 22
+2024-06-20 21:56:10,301 - INFO - Food wait time: 47076.06101036072 ms
+2024-06-20 21:56:10,302 - INFO - Courier wait time: 61115.62705039978 ms
+2024-06-20 21:56:10,302 - INFO - Order picked up: 057bc043-5f22-4169-9711-c6e2488b35f7 by Courier: 35
+2024-06-20 21:56:10,302 - INFO - Food wait time: 54259.68790054321 ms
+2024-06-20 21:56:10,302 - INFO - Courier wait time: 58801.40709877014 ms
+2024-06-20 21:56:10,302 - INFO - Order picked up: 7f682ade-8375-4ef4-aa9b-45440f361268 by Courier: 47
+2024-06-20 21:56:10,302 - INFO - Food wait time: 39938.54212760925 ms
+2024-06-20 21:56:10,302 - INFO - Courier wait time: 49972.04089164734 ms
+2024-06-20 21:56:10,302 - INFO - Order picked up: 0d841704-92a0-44e1-aaf8-02a8ee920775 by Courier: 51
+2024-06-20 21:56:10,303 - INFO - Food wait time: 35838.86122703552 ms
+2024-06-20 21:56:10,303 - INFO - Courier wait time: 47367.52223968506 ms
+2024-06-20 21:56:10,303 - INFO - Order picked up: 7f89b973-d4fd-4d6e-a279-afc2db6b3304 by Courier: 49
+2024-06-20 21:56:10,303 - INFO - Food wait time: 42324.23496246338 ms
+2024-06-20 21:56:10,303 - INFO - Courier wait time: 46349.34711456299 ms
+2024-06-20 21:56:10,303 - INFO - Order picked up: 2a23c77f-3ee3-4a52-8810-93e73df4e887 by Courier: 56
+2024-06-20 21:56:10,303 - INFO - Food wait time: 36766.86072349548 ms
+2024-06-20 21:56:10,303 - INFO - Courier wait time: 44287.13083267212 ms
+2024-06-20 21:56:10,303 - INFO - Order picked up: 4f304b59-6634-4558-a128-a8ce12b1f818 by Courier: 67
+2024-06-20 21:56:10,303 - INFO - Food wait time: 28609.261751174927 ms
+2024-06-20 21:56:10,303 - INFO - Courier wait time: 39624.79281425476 ms
+2024-06-20 21:56:10,304 - INFO - --- Final Statistics ---
+2024-06-20 21:56:10,305 - INFO - Average Food Wait Time: 11405.990889578155 ms
+2024-06-20 21:56:10,305 - INFO - Average Courier Wait Time: 6640.922369378985 ms
